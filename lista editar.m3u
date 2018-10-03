@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:0,YTV Service
+#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Informacion",YTV SERVICE
+http://tecnotv.info/error
+
+
+-------------------- TV PREMIUM --------------------------
+
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0,A+
 #EXTVLCOPT:network-caching=1000
@@ -1402,7 +1407,7 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1Dq
 #EXTINF:0, TravelHD
 #EXTVLCOPT:network-caching=1000
 http://31.13.223.104:1935/travel/community.stream/chunklist_wZoiper%20Click2Dial511463959ES.m3u8
-#EXTINF:0, "Canales EDITAR" 
+#EXTINF:0, "Canales EDITAR"
 #EXTVLCOPT:network-caching=1000
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, telenord 8
