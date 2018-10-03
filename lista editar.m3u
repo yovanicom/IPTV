@@ -3,8 +3,9 @@
 http://tecnotv.info/error
 
 
--------------------- TV PREMIUM --------------------------
+-------------------- Principal --------------------------
 
+-------------------- Entretenimiento --------------------------
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0,A+
 #EXTVLCOPT:network-caching=1000
