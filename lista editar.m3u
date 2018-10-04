@@ -4,6 +4,9 @@ http://tecnotv.info/error
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ENTRETENIMIENTO", [COLOR red]ENTRETENIMIENTO[/COLOR]
 http://127.0.0.1
 
+#EXTINF:0,Tlx
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Silence TV
 #EXTVLCOPT:network-caching=1000
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
@@ -18,12 +21,18 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="MEXICO", [COLOR green]MEXICO[/COLOR]
 http://127.0.0.1
 
+#EXTINF:0,adn 40
+#EXTVLCOPT:network-caching=1000
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,Azteca+ Plus
 #EXTVLCOPT:network-caching=1000
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Azteca Uno
+#EXTVLCOPT:network-caching=1000
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
@@ -120,15 +129,7 @@ http://127.0.0.1
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 
 
-#EXTINF:0,TLX
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ADN 40
-#EXTVLCOPT:network-caching=1000
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,AZTECA A MERICA
-#EXTVLCOPT:network-caching=1000
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:0,CANAL CAPITAL
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
