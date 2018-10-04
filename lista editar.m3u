@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Informacion",YTV SERVICE
-https://www.youtube.com/user/yovani/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ENTRETENIMIENTO", [COLOR red]ENTRETENIMIENTO[/COLOR]
+https://youtu.be/1W1OG7xF6mg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ENTRETENIMIENTO--", [COLOR red]ENTRETENIMIENTO[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,Tlx
@@ -18,7 +18,7 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="MEXICO", [COLOR green]MEXICO[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--MEXICO--", [COLOR green]MEXICO[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,adn 40
@@ -61,7 +61,7 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m
 #EXTVLCOPT:network-caching=1000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ARGENTINA", [COLOR blue]ARGENTINA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ARGENTINA--", [COLOR blue]ARGENTINA[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,Power HD Argentina
@@ -71,7 +71,7 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgrat
 #EXTVLCOPT:network-caching=1000
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="VENEZUELA", [COLOR yellow]VENEZUELA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--VENEZUELA--", [COLOR yellow]VENEZUELA[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,Telesur
@@ -79,21 +79,21 @@ http://127.0.0.1
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ITALIANO", [COLOR green]ITALIANO[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ITALIANO--", [COLOR green]ITALIANO[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,Rai Movie HD
 #EXTVLCOPT:network-caching=1000
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="NOTICIAS", [COLOR Red]NOTICIAS[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--NOTICIAS--", [COLOR Red]NOTICIAS[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,US | BLOOMBERG HD
 #EXTVLCOPT:network-caching=1000
 https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="MUSICA", [COLOR Red]MUSICA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--MUSICA--", [COLOR Red]MUSICA[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,heartv summer
@@ -121,7 +121,7 @@ http://www.djing.com/tv/ibiza.m3u8
 #EXTVLCOPT:network-caching=1000
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="RADIO", [COLOR Red]RADIO[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--RADIO--", [COLOR Red]RADIO[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,RBC TV
