@@ -4,69 +4,63 @@ http://tecnotv.info/error
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ENTRETENIMIENTO", [COLOR red]ENTRETENIMIENTO[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,SILENCE TV
+#EXTINF:0,Silence TV
 #EXTVLCOPT:network-caching=1000
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
 #EXTINF:0,Silence TV
 #EXTVLCOPT:network-caching=1000
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:0,Fashion Flix
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="MEXICO", [COLOR green]MEXICO[/COLOR]
 http://127.0.0.1
 
+#EXTINF:0,Azteca+ Plus
+#EXTVLCOPT:network-caching=1000
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Azteca Uno
+#EXTVLCOPT:network-caching=1000
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Azteca Uno
+#EXTVLCOPT:network-caching=1000
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 #EXTINF:0,A+
 #EXTVLCOPT:network-caching=1000
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-#EXTINF:0,TV CAMPECHE
+#EXTINF:0,TV Campeche
 #EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:0,MILENIO TV
+#EXTINF:0,Milenio TV
 #EXTVLCOPT:network-caching=1000
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0,MULTIMEDIOS MONTERREY
+#EXTINF:0,Multimedios Monterrey
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:0,TVMAS
+#EXTINF:0,TVMas
 #EXTVLCOPT:network-caching=1000
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:0,TELEMAR CAMPECHE
+#EXTINF:0,Telemar Campeche
 #EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:0,PIGUINO TV HD
+#EXTINF:0,Canal del Congreso
+#EXTVLCOPT:network-caching=1000
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+#EXTINF:0,Pinguino TV HD
 #EXTVLCOPT:network-caching=1000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ARGENTINA", [COLOR blue]ARGENTINA[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,GARAGE TV AUTOS
+#EXTINF:0,Power HD Argentina
+#EXTVLCOPT:network-caching=1000
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Garage TV Autos
 #EXTVLCOPT:network-caching=1000
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ARGENTINA", [COLOR blue]ARGENTINA[/COLOR]
-http://127.0.0.1
-
-#EXTINF:0,heartv summer MUSIC
-#EXTVLCOPT:network-caching=1000
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Heart Music tv
-#EXTVLCOPT:network-caching=1000
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,RETRO MUCIC TV
-#EXTVLCOPT:network-caching=1000
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,RETRO MUSIC TV
-#EXTVLCOPT:network-caching=1000
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
-#EXTINF:0,TOP LATINO MUSICA
-#EXTVLCOPT:network-caching=1000
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:0,HEARTY TV MUSIC
-#EXTVLCOPT:network-caching=1000
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0,INFANTILES:Trailer Tv Kids
-#EXTVLCOPT:network-caching=1000
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="VENEZUELA", [COLOR yellow]VENEZUELA[/COLOR]
 http://127.0.0.1
@@ -74,57 +68,58 @@ http://127.0.0.1
 #EXTINF:0,Telesur
 #EXTVLCOPT:network-caching=1000
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
-#EXTINF:0,MULTIMEDIOS
-#EXTVLCOPT:network-caching=1000
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
-#EXTINF:0,MTV LIVE
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-#EXTINF:0,Azteca+ Plus
-#EXTVLCOPT:network-caching=1000
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Canal del Congreso
-#EXTVLCOPT:network-caching=1000
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
-#EXTINF:0,RADIOTV:Power HD Argentina
-#EXTVLCOPT:network-caching=1000
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,RAITALIA
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="ITALIANO", [COLOR green]ITALIANO[/COLOR]
+http://127.0.0.1
+
+#EXTINF:0,Rai Movie HD
 #EXTVLCOPT:network-caching=1000
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,LOGOS TV
-#EXTVLCOPT:network-caching=1000
-http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
-#EXTINF:0,CIELO TV
-#EXTVLCOPT:network-caching=1000
-http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
-#EXTINF:0,DJING
-#EXTVLCOPT:network-caching=1000
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:0,M2OTV
-#EXTVLCOPT:network-caching=1000
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,AZTECA 13 G67
-#EXTVLCOPT:network-caching=1000
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Azteca UNO
-#EXTVLCOPT:network-caching=1000
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="NOTICIAS", [COLOR Red]NOTICIAS[/COLOR]
+http://127.0.0.1
+
 #EXTINF:0,US | BLOOMBERG HD
 #EXTVLCOPT:network-caching=1000
 https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
-#EXTINF:0,ENTRETENIMIENTO 2:MAXIMA TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="MUSICA", [COLOR Red]MUSICA[/COLOR]
+http://127.0.0.1
+
+#EXTINF:0,heartv summer
 #EXTVLCOPT:network-caching=1000
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
-#EXTINF:0,ENTRETENIMIENTO 2:TRAILER TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Heartv Music
 #EXTVLCOPT:network-caching=1000
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
-#EXTINF:0,ENTRETENIMIENTO 2:FASHION TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Retro Music TV
 #EXTVLCOPT:network-caching=1000
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Retro Music Tv
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:0,Top Latino Musica
+#EXTVLCOPT:network-caching=1000
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0,Hearty Tv Music
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Djing
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,M2o tv
+#EXTVLCOPT:network-caching=1000
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="RADIO", [COLOR Red]RADIO[/COLOR]
+http://127.0.0.1
+
 #EXTINF:0,RBC TV
 #EXTVLCOPT:network-caching=1000
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+
 #EXTINF:0,TLX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
