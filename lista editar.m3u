@@ -577,19 +577,19 @@ https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, ANTENA 3
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
-#EXTINF:0, MEGA TV
+#EXTINF:0, MEGA
 #EXTVLCOPT:network-caching=1000
 https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
-#EXTINF:0, MEGA TV
+#EXTINF:0, MEGA
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
-#EXTINF:0, NOVA TV
+#EXTINF:0, NOVA
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
-#EXTINF:0, La Sexta | HD
+#EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
-#EXTINF:0, Neox | HD
+#EXTINF:0, NEOX
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 #EXTINF:0, ETBSAT | SD
