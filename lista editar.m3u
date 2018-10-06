@@ -88,6 +88,9 @@ http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:0,Telemundo 62
 #EXTVLCOPT:network-caching=1000
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+#EXTINF:0,Telemundo 62
+#EXTVLCOPT:network-caching=1000
+http://whostreams.net/c2a9019f-8d6d-4e6c-a693-47482dac9801
 #EXTINF:0, TDT
 #EXTVLCOPT:network-caching=1000
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
@@ -570,13 +573,13 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 http://s742319618.mialojamiento.es/cl3?vid=a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 #EXTINF:0, ANTENA 3
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, ANTENA 3
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, MEGA TV
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
+https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 #EXTINF:0, MEGA TV
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
@@ -585,7 +588,7 @@ http://s742319618.mialojamiento.es/cl3?vid=mega-pull2a-a3player.secure.footprint
 http://s742319618.mialojamiento.es/cl3?vid=nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
 #EXTINF:0, La Sexta | HD
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
 #EXTINF:0, Neox | HD
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
