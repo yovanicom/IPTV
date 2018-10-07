@@ -7,7 +7,7 @@ http://127.0.0.1
 #EXTINF:0, PELICULAS 24/7
 #EXTVLCOPT:network-caching=1000
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
-#EXTINF:FM HOT
+#EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
 #EXTINF:0,TLX
