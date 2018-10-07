@@ -6,10 +6,6 @@ http://127.0.0.1
 
 #EXTINF:0, PELICULAS 24/7
 #EXTVLCOPT:network-caching=1000
-https://r6---sn-5ualdn7k.googlevideo.com/videoplayback?lmt=1536886376669863&ratebypass=yes&key=yt6&mt=1538929963&c=WEB&ei=vDW6W-OYG9-FzLUP0IeuuAw&expire=1538951708&fvip=3&mime=video%2Fmp4&requiressl=yes&ms=au%2Crdu&itag=22&initcwndbps=1473750&dur=313.840&mv=m&source=youtube&id=o-ABw31LgWzGmnCokfueHYs6oBVqm_V9Zz9-i5KLQOWxpM&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&pl=32&signature=03B956C7BBBF1D20F8DF4E49DBD1A07B90EF8B9C.A9093A2AA169CEC1A4E574CB4E04E0DD875EB931&ipbits=0&mn=sn-5ualdn7k%2Csn-5uaeznyz&mm=31%2C29&ip=2606%3Aa000%3Ab7c2%3Adf00%3Aa899%3Aeef%3A2aa1%3A5546
-
-#EXTINF:0, PELICULAS 24/7
-#EXTVLCOPT:network-caching=1000
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
