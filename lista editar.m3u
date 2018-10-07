@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="--INFORMACION--",--YTV SERVICE--
-http://1s.videoclip.bg/video/1/782608.mp4
+http://live.slynet.tv/promoslynetiptv1?.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 http://127.0.0.1
 
