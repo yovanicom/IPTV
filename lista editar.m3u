@@ -181,7 +181,7 @@ http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0, AZTECA 13 G67
+#EXTINF:0, AZTECA 13
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,Azteca+ Plus
@@ -326,7 +326,10 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:0,15 TV
 #EXTVLCOPT:network-caching=1000
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:0,Power HD Argentina
+#EXTINF:TELPIN
+#EXTVLCOPT:network-caching=1000
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,Power
 #EXTVLCOPT:network-caching=1000
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Garage TV Autos
@@ -648,7 +651,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 #EXTINF:0, ATRESeries
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
+http://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 #EXTINF:0, ANTENA 3
 #EXTVLCOPT:network-caching=1000
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
@@ -660,10 +663,10 @@ http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footpr
 https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 #EXTINF:0, MEGA
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
+http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
 #EXTINF:0, NOVA
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
+http://nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
@@ -678,7 +681,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:0, NEOX
 #EXTVLCOPT:network-caching=1000
-http://s742319618.mialojamiento.es/cl3?vid=neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
+http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 #EXTINF:0,TELEMADRID
 #EXTVLCOPT:network-caching=1000
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
