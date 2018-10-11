@@ -4,12 +4,12 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
-#EXTINF:0, PELICULAS 24/7
+#EXTINF:0, CACHI PUM
 #EXTVLCOPT:network-caching=1000
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+http://live.grupoz.cl/a06f08881140e0f9c81a0889e9627aea
 #EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
+http://live.grupoz.cl/88de9ced85be15bd70cff8397076692c
 #EXTINF:0,TLX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
@@ -660,7 +660,7 @@ https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, MEGA
 #EXTVLCOPT:network-caching=1000
-https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
+https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
 #EXTINF:0, MEGA
 #EXTVLCOPT:network-caching=1000
 http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
