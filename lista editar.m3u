@@ -776,9 +776,15 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0, TVES
 #EXTVLCOPT:network-caching=1000
 http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:-1,Canal 23 TVX
+#EXTVLCOPT:network-caching=1000
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 #EXTINF:0,CANAL 21 MEGAVICIÓN
 #EXTVLCOPT:network-caching=1000
 http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal 12
+#EXTVLCOPT:network-caching=1000
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--BOLIVIA--", [COLOR Red]--BOLIVIA--[/COLOR]
 http://127.0.0.1
@@ -942,6 +948,10 @@ http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,Travel Channel
 #EXTVLCOPT:network-caching=1000
 http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Adult Swim
+#EXTVLCOPT:network-caching=1000
+https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
+#EXTINF:0,3abnKids
 #EXTVLCOPT:network-caching=1000
 http://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
 #EXTINF:0,TG4
