@@ -4,11 +4,11 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Be1.be" tvg-name="CACHI PUM" group-title="ENTRETENIMIENTO" parent-code="1234" audio-track="nl",Be1 Name http://live.grupoz.cl/a06f08881140e0f9c81a0889e9627aea
-#EXTINF:-1 tvg-id="Be1.be" tvg-name="FM HOT" group-title="ENTRETENIMIENTO" parent-code="1234" audio-track="nl",Be1 Name http://live.grupoz.cl/88de9ced85be15bd70cff8397076692c
+#EXTINF:0 CACHI PUM
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
 #EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
-http://live.grupoz.cl/88de9ced85be15bd70cff8397076692c
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:0,TLX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
@@ -433,7 +433,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:0,The Weather Channel
 #EXTVLCOPT:network-caching=1000
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0,RT Spanish
+#EXTINF:0,RT En Español
 #EXTVLCOPT:network-caching=1000
 htthttps://www.youtube.com/watch?v=mV8jp1N2fSw
 #EXTINF:0,RT News
