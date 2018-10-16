@@ -434,7 +434,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:0,The Weather Channel
 #EXTVLCOPT:network-caching=1000
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0,RT
+#EXTINF:0,RT Spanish
 #EXTVLCOPT:network-caching=1000
 htthttps://www.youtube.com/watch?v=mV8jp1N2fSw
 #EXTINF:0,RT News
