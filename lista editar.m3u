@@ -838,6 +838,14 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
+#EXTINF:0, [COLOR red]URUGUAY[/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1
+
+#EXTINF:0, Canal-M | HD
+#EXTVLCOPT:network-caching=1000
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="--REPUBLICA DOMINICANA--", [COLOR Red]--REPUBLICA DOMINICANA--[/COLOR]
 http://127.0.0.1
 
@@ -851,6 +859,10 @@ http://127.0.0.1
 #EXTINF:0,UCSG
 #EXTVLCOPT:network-caching=1000
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0, TC
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="--COSTA RICA--", [COLOR Red]--COSTA RICA--[/COLOR]
 http://127.0.0.1
