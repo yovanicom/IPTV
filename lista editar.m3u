@@ -325,7 +325,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:0,15 TV
 #EXTVLCOPT:network-caching=1000
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:TELPIN
+#EXTINF:0,TELPIN
 #EXTVLCOPT:network-caching=1000
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:0,Power
