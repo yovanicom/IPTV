@@ -445,7 +445,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0,France 24 English
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0,France 24 France
+#EXTINF:0,France 24
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:0,CNN
