@@ -78,15 +78,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0, Discovery Kids
 #EXTVLCOPT:network-caching=1000
 http://iptv.wtf:25461/live/upgvxxuq/fp5H18Yvr7/11171.m3u8
-#EXTINF:0,CGTN Documentary
-#EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0,CGTN 1
-#EXTVLCOPT:network-caching=1000
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,CGTN
-#EXTVLCOPT:network-caching=1000
-http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,BANDA MAX
 #EXTVLCOPT:network-caching=1000
 http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
@@ -418,21 +409,12 @@ https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--NOTICIAS--", [COLOR Red]--NOTICIAS--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,US | BLOOMBERG HD
+#EXTINF:0,CGTN Documentary
 #EXTVLCOPT:network-caching=1000
-https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:0,CGTN Español
 #EXTVLCOPT:network-caching=1000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:0,MSNBC
-#EXTVLCOPT:network-caching=1000
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0,The Weather Channel
-#EXTVLCOPT:network-caching=1000
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,RT En Español
 #EXTVLCOPT:network-caching=1000
 htthttps://www.youtube.com/watch?v=mV8jp1N2fSw
@@ -457,9 +439,30 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0,DW Español
 #EXTVLCOPT:network-caching=1000
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:0,MSNBC
+#EXTVLCOPT:network-caching=1000
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,The Weather Channel
+#EXTVLCOPT:network-caching=1000
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0,TRT World
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,US | BLOOMBERG HD
+#EXTVLCOPT:network-caching=1000
+https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
 #EXTINF:0,Bloomberg
 #EXTVLCOPT:network-caching=1000
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -499,9 +502,6 @@ http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 #EXTINF:0,ABC News
 #EXTVLCOPT:network-caching=1000
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0,France 24
-#EXTVLCOPT:network-caching=1000
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0,Arirang
 #EXTVLCOPT:network-caching=1000
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
