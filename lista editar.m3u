@@ -666,27 +666,36 @@ http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
 #EXTINF:0, NOVA
 #EXTVLCOPT:network-caching=1000
 http://nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
+#EXTINF:0,ENERGY
+#EXTVLCOPT:network-caching=1000
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:0,BE MAD
+#EXTVLCOPT:network-caching=100
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:0, NEOX
+#EXTVLCOPT:network-caching=1000
+http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
+#EXTINF:0,BOING
+#EXTVLCOPT:network-caching=100
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:0,BOING
+#EXTVLCOPT:network-caching=1000
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
-#EXTINF:0,LA 2
+#EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=650000.m3u8
 #EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:0,ENERGY
-#EXTVLCOPT:network-caching=1000
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:0, NEOX
-#EXTVLCOPT:network-caching=1000
-http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
-#EXTINF:0,TELEMADRID
-#EXTVLCOPT:network-caching=1000
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:0, LA OTRA
 #EXTVLCOPT:network-caching=1000
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:0,TELEMADRID
+#EXTVLCOPT:network-caching=1000
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:0, ETBSAT
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
@@ -702,15 +711,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:0, 324 Cataluna
 #EXTVLCOPT:network-caching=1000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0,BE MAD
-#EXTVLCOPT:network-caching=100
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
-#EXTINF:0,BOING
-#EXTVLCOPT:network-caching=100
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:0,BOING
-#EXTVLCOPT:network-caching=1000
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0,IB3
 #EXTVLCOPT:network-caching=1000
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
@@ -763,6 +763,24 @@ http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
 http://127.0.0.1
 
+#EXTINF:-1,Canal 10
+#EXTVLCOPT:network-caching=1000
+http://198.24.135.42:80/canal10/canal10/playlist.m3u8
+#EXTINF:-1,Canal 11
+#EXTVLCOPT:network-caching=1000
+http://198.24.135.42:80/canal11/canal11/playlist.m3u8
+#EXTINF:-1,Canal 12
+#EXTVLCOPT:network-caching=1000
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
+#EXTINF:0, Canal 19
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8
+#EXTINF:0,CANAL 21 MEGAVICIÓN
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal 23 TVX
+#EXTVLCOPT:network-caching=1000
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 #EXTINF:0,WOW TV
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -772,18 +790,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:0,Wow TV
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:0, TVES
+#EXTINF:0,Canal TRV
 #EXTVLCOPT:network-caching=1000
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1,Canal 23 TVX
-#EXTVLCOPT:network-caching=1000
-https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
-#EXTINF:0,CANAL 21 MEGAVICIÓN
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Canal 12
-#EXTVLCOPT:network-caching=1000
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
+http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="--BOLIVIA--", [COLOR Red]--BOLIVIA--[/COLOR]
 http://127.0.0.1
