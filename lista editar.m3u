@@ -167,6 +167,12 @@ http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1100.m3u8
 #EXTINF:0,beiN SPORTS MAX 6
 #EXTVLCOPT:network-caching=1000
 http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.m3u8
+#EXTINF:0, SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0, SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
 http://127.0.0.1
@@ -399,13 +405,6 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="--VENEZUELA--", [COLOR yellow]--VENEZUELA--[/COLOR]
-http://127.0.0.1
-
-#EXTINF:0,Telesur
-#EXTVLCOPT:network-caching=1000
-https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="--NOTICIAS--", [COLOR Red]--NOTICIAS--[/COLOR]
 http://127.0.0.1
 
@@ -578,43 +577,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:0, Tele Islas
 #EXTVLCOPT:network-caching=1000
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="--PERU--", [COLOR Red]--PERU--[/COLOR]
-http://127.0.0.1
-
-#EXTINF:0,Capital TV
-#EXTVLCOPT:network-caching=1000
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,Capital TV
-#EXTVLCOPT:network-caching=1000
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:0,Capital TV
-#EXTVLCOPT:network-caching=1000
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
-#EXTINF:0,Digital TV
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
-#EXTINF:0,Digital TV
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
-#EXTINF:0,Digital TV
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
-#EXTINF:0,Digital TV
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,TV Noticias 7.3
-#EXTVLCOPT:network-caching=1000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
-#EXTINF:0,CTV Peru
-#EXTVLCOPT:network-caching=1000
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-#EXTINF:0,Top Latino | SD
-#EXTVLCOPT:network-caching=1000
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
-#EXTINF:0,Congreso TV
-#EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/exitosartmp_1@504435/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--ESPAÑA--", [COLOR Yellow]--ESPAÑA--[/COLOR]
 http://127.0.0.1
@@ -794,6 +756,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTVLCOPT:network-caching=1000
 http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="--VENEZUELA--", [COLOR yellow]--VENEZUELA--[/COLOR]
+http://127.0.0.1
+
+#EXTINF:0,Telesur
+#EXTVLCOPT:network-caching=1000
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--BOLIVIA--", [COLOR Red]--BOLIVIA--[/COLOR]
 http://127.0.0.1
@@ -804,6 +772,43 @@ http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 #EXTINF:0,Bolivia TV
 #EXTVLCOPT:network-caching=1000
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="--PERU--", [COLOR Red]--PERU--[/COLOR]
+http://127.0.0.1
+
+#EXTINF:0,Capital TV
+#EXTVLCOPT:network-caching=1000
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Capital TV
+#EXTVLCOPT:network-caching=1000
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:0,Capital TV
+#EXTVLCOPT:network-caching=1000
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:0,Digital TV
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
+#EXTINF:0,Digital TV
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+#EXTINF:0,Digital TV
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+#EXTINF:0,Digital TV
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TV Noticias 7.3
+#EXTVLCOPT:network-caching=1000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+#EXTINF:0,CTV Peru
+#EXTVLCOPT:network-caching=1000
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0,Top Latino | SD
+#EXTVLCOPT:network-caching=1000
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+#EXTINF:0,Congreso TV
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net/i/exitosartmp_1@504435/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--CHILE--", [COLOR Red]--CHILE--[/COLOR]
 http://127.0.0.1
