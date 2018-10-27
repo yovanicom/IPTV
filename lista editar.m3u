@@ -33,9 +33,6 @@ http://bit.ly/2wxlPQD
 #EXTINF:0,ORBIT TV
 #EXTVLCOPT:network-caching=1000
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:0,NATGEO WILD
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 #EXTINF:0,Fashion Flix
 #EXTVLCOPT:network-caching=1000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -48,39 +45,18 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:0,Extrema TV
 #EXTVLCOPT:network-caching=1000
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,GOLDEN 1 HLS
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:0,SPACE
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:0, DW Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:0, ANIME TV
+#EXTINF:0,ANIME TV
 #EXTVLCOPT:network-caching=1000
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0,Locomotion
 #EXTVLCOPT:network-caching=1000
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0,Nick
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:0,Nick JR
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:audio-track=2 network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0, Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://iptv.wtf:25461/live/upgvxxuq/fp5H18Yvr7/11171.m3u8
-#EXTINF:0,BANDA MAX
-#EXTVLCOPT:network-caching=1000
-http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 #EXTINF:0,Cuenca Vision
 #EXTVLCOPT:network-caching=1000
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
@@ -122,7 +98,7 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTVLCOPT:network-caching=1000
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:audio-track=2 network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:0,HBO Hits
 #EXTVLCOPT:network-caching=1000
