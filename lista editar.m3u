@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,--YTV SERVICE--
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
 #EXTINF:0, CACHI PUM
