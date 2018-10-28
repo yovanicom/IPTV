@@ -138,36 +138,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226777/index.m3u8
 #EXTINF:0,CDO DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-#EXTINF:0,beiN SPORTS En
-#EXTVLCOPT:network-caching=1000
-http://185.53.163.205:2700
-#EXTINF:0,beiN SPORTS 2 En
-#EXTVLCOPT:network-caching=1000
-http://185.53.163.205:2506
-#EXTINF:0,beiN SPORTS 3 En
-#EXTVLCOPT:network-caching=1000
-http://185.53.163.205:2701
-#EXTINF:0,beiN SPORTS 4 En
-#EXTVLCOPT:network-caching=1000
-http://185.53.163.205:2507
-#EXTINF:0,beiN SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/761.m3u8
-#EXTINF:0,beiN SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/762.m3u8
-#EXTINF:0,beiN SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/763.m3u8
-#EXTINF:0,beiN SPORTS MAX 4
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1099.m3u8
-#EXTINF:0,beiN SPORTS MAX 5
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1100.m3u8
-#EXTINF:0,beiN SPORTS MAX 6
-#EXTVLCOPT:network-caching=1000
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.m3u8
 #EXTINF:0, SPORT 1 HD
 #EXTVLCOPT:network-caching=1000
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -951,18 +921,9 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--INGLES--", [COLOR Red]--INGLES--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0, Discovery World
-#EXTVLCOPT:network-caching=1000
-http://iptv.wtf:25461/live/upgvxxuq/fp5H18Yvr7/10719.m3u8
-#EXTINF:0,Food Network
-#EXTVLCOPT:network-caching=1000
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0,Weather Nation
 #EXTVLCOPT:network-caching=1000
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0,Beach TV - 30A
-#EXTVLCOPT:network-caching=1000
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:0,Beach TV - Panama City
 #EXTVLCOPT:network-caching=1000
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
