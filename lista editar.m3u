@@ -60,7 +60,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0,Cuenca Vision
 #EXTVLCOPT:network-caching=1000
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:0,Telemundo 62
+#EXTINF:0,Telemundo
 #EXTVLCOPT:network-caching=1000
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 #EXTINF:0,Telemundo 62
@@ -84,21 +84,18 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0,NBC
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0,NBC
+#EXTVLCOPT:audio-track="spa" network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:0,Fish Channel
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:0,US:NBC
-#EXTVLCOPT:audio-track="spa" network-caching=1000
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:0,Universal Channel HD
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:0,INFO FILM MAX TV
 #EXTVLCOPT:network-caching=1000
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:0,Sony Movie Channel
-#EXTVLCOPT:network-caching=1000
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Sony Movie Channel
 #EXTVLCOPT:network-caching=1000
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
@@ -120,10 +117,10 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0,HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:0,HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
-#EXTINF:-1,US:HBO 2
+#EXTINF:0,HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0,HBO Hits
