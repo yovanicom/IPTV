@@ -1027,7 +1027,20 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 http://30a-tv.com/darcizzle.m3u8
 #EXTINF:0,Discovery Channel
 http://103.242.13.90:5555/udp/239.4.2.19:10000
-
+#EXTINF:0,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0,NASA TV
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,Npowered TV
+https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
+#EXTINF:-1,ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--MUSICA--", [COLOR Red]--MUSICA--[/COLOR]
 http://127.0.0.1
