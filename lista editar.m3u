@@ -614,7 +614,7 @@ https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, ANTENA 3 ES
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
-#EXTINF:0, MEGA ES
+#EXTINF:-1 tvg-id="Mega.es", MEGA ES
 #EXTVLCOPT:network-caching=1000
 https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
 #EXTINF:0, MEGA ES
@@ -1326,7 +1326,7 @@ http://62.210.93.115:80/live?channelId=66&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 http://62.210.93.115:80/live?channelId=67&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,Universal
 http://62.210.93.115:80/live?channelId=68&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,QUEST 
+#EXTINF:-1,QUEST
 http://62.210.93.115:80/live?channelId=69&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,sat100
 http://62.210.93.115:80/live?channelId=100
