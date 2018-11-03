@@ -4,21 +4,21 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 #EXTINF:-1 tvg-logo="" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
-#EXTINF:0, CACHI PUM
+#EXTINF:0 tvg-id="Cachipum.cl", CACHI PUM
 http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0, FM HOT
+#EXTINF:0 tvg-id="Fmhot.cl", FM HOT
 #EXTVLCOPT:network-caching=1000
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:0,TLX
+#EXTINF:0 tvg-id="Telemax".ar,TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:0, TLX
+#EXTINF:0 tvg-id="Telemax", TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:0,TLX
+#EXTINF:0 tvg-id="Telemax",TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-#EXTINF:0,TRAVEL HD
+#EXTINF:0,TRAVEL Bulgaria
 #EXTVLCOPT:network-caching=1000
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0,Silence TV
@@ -33,18 +33,15 @@ http://bit.ly/2wxlPQD
 #EXTINF:0,ORBIT TV
 #EXTVLCOPT:network-caching=1000
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:0,Fashion Flix
+#EXTINF:0 tvg-id="FashionTV.eu",Fashion Flix
 #EXTVLCOPT:network-caching=1000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:0,Fashion
+#EXTINF:0 tvg-id="FashionTV.uk",Fashion
 #EXTVLCOPT:network-caching=1000
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Canal Principal
 #EXTVLCOPT:network-caching=1000
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:0,Extrema TV
-#EXTVLCOPT:network-caching=1000
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
@@ -54,16 +51,13 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:0,Locomotion
 #EXTVLCOPT:network-caching=1000
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0,Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetwork.mx",Cartoon Network
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,Cuenca Vision
-#EXTVLCOPT:network-caching=1000
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 62
 #EXTVLCOPT:network-caching=1000
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
-#EXTINF:0,Telemundo 62
+#EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 62
 #EXTVLCOPT:network-caching=1000
 http://whostreams.net/c2a9019f-8d6d-4e6c-a693-47482dac9801
 #EXTINF:0, TDT
@@ -650,10 +644,10 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 #EXTINF:0, LA OTRA
 #EXTVLCOPT:network-caching=1000
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0 Telemadrid.es ,TELEMADRID
+#EXTINF:0 tvg-id="Telemadrid.es" ,TELEMADRID
 #EXTVLCOPT:network-caching=1000
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0 ETBSat.es, ETBSAT
+#EXTINF:0 tvg-id="ETBSat.es", ETBSAT
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0, TV3
@@ -665,10 +659,10 @@ https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:tv3_web/chun
 #EXTINF:0,REAL MADRID TV
 #EXTVLCOPT:network-caching=1000
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:0, 324 Cataluna
+#EXTINF:0 tvg-id="324.es", 324 Cataluna
 #EXTVLCOPT:network-caching=1000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0,IB3
+#EXTINF:0 tvg-id="IB3RTVIllesBalears.es",IB3
 #EXTVLCOPT:network-caching=1000
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
 #EXTINF:0,Lancelot
@@ -680,7 +674,7 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:0,Melilla TV
 #EXTVLCOPT:network-caching=1000
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:0,Murcia
+#EXTINF:0 tvg-id="7tv.es",7 Region de Murcia
 #EXTVLCOPT:network-caching=1000
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,RTPA
@@ -692,10 +686,10 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:0,TeleValencia
 #EXTVLCOPT:network-caching=1000
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:0,TV Galicia America
+#EXTINF:0 tvg-id="TVGalicia.es",TV Galicia America
 #EXTVLCOPT:network-caching=1000
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0,TV Galicia Europa
+#EXTINF:0 tvg-id="TVGalicia.es",TV Galicia Europa
 #EXTVLCOPT:network-caching=1000
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0,TeleSafor
@@ -707,7 +701,7 @@ http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:0,Onda Cadiz
 #EXTVLCOPT:network-caching=1000
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:0,ARAGON TV
+#EXTINF:0 tvg-id="AragonTV",ARAGON TV
 #EXTVLCOPT:network-caching=1000
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:0,CANAL 25
