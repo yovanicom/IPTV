@@ -109,7 +109,7 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:0,HBO
 #EXTVLCOPT:network-caching=1000
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-id="HBO2.mx",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" audio-track="spa",HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
