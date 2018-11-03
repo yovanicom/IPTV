@@ -720,7 +720,7 @@ http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1,Canal 10
+#EXTINF:-1,Canal 10 ESA
 #EXTVLCOPT:network-caching=1000
 http://198.24.135.42:80/canal10/canal10/playlist.m3u8
 #EXTINF:-1,Canal 11
@@ -1262,71 +1262,71 @@ http://62.210.93.115:80/live?channelId=34&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 http://62.210.93.115:80/live?channelId=35&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,Discovery Shed – Discovery Shed
 http://62.210.93.115:80/live?channelId=36&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,DMAX – DMAX
+#EXTINF:-1,DMAX
 http://62.210.93.115:80/live?channelId=37&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Blaze – Blaze
+#EXTINF:-1,Blaze
 http://62.210.93.115:80/live?channelId=38&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,ComedyCentral – ComedyCentral
+#EXTINF:-1,Comedy Central
 http://62.210.93.115:80/live?channelId=39&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,ComedyXtra – ComedyXtra
+#EXTINF:-1,ComedyXtra
 http://62.210.93.115:80/live?channelId=40&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Crime and Investigation – Crime and Investigation
+#EXTINF:-1,Crime and Investigation
 http://62.210.93.115:80/live?channelId=41&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Animal Planet – Animal Planet
+#EXTINF:-1,Animal Planet
 http://62.210.93.115:80/live?channelId=42&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,HISTORY – HISTORY
+#EXTINF:-1,HISTORY
 http://62.210.93.115:80/live?channelId=43&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,H2 – H2
+#EXTINF:-1,H2
 http://62.210.93.115:80/live?channelId=44&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,National Geo Wild – National Geo Wild
+#EXTINF:-1,National Geo Wild
 http://62.210.93.115:80/live?channelId=45&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,National Geographic – National Geographic
+#EXTINF:-1,National Geographic
 http://62.210.93.115:80/live?channelId=46&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,TLC – TLC
+#EXTINF:-1,TLC
 http://62.210.93.115:80/live?channelId=47&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Syfy – Syfy
+#EXTINF:-1,Syfy
 http://62.210.93.115:80/live?channelId=48&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Lifetime – Lifetime
+#EXTINF:-1,Lifetime
 http://62.210.93.115:80/live?channelId=49&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,MTV – MTV
+#EXTINF:-1,MTV
 http://62.210.93.115:80/live?channelId=50&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Dave – Dave
+#EXTINF:-1,Dave
 http://62.210.93.115:80/live?channelId=51&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Dave ja vu – Dave ja vu
+#EXTINF:-1,Dave ja vu
 http://62.210.93.115:80/live?channelId=52&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,FOX – FOX
+#EXTINF:-1,FOX
 http://62.210.93.115:80/live?channelId=53&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,horror channel – horror channel
 http://62.210.93.115:80/live?channelId=54&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,ID – ID
+#EXTINF:-1,ID
 http://62.210.93.115:80/live?channelId=55&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,Good Food – Good Food
 http://62.210.93.115:80/live?channelId=56&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Home – Home
+#EXTINF:-1,Home
 http://62.210.93.115:80/live?channelId=57&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Food Network – Food Network
+#EXTINF:-1,Food Network
 http://62.210.93.115:80/live?channelId=58&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,alibi – alibi
+#EXTINF:-1,alibi
 http://62.210.93.115:80/live?channelId=59&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Drama – Drama
+#EXTINF:-1,Drama
 http://62.210.93.115:80/live?channelId=60&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,E! – E!
+#EXTINF:-1,E!
 http://62.210.93.115:80/live?channelId=61&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Eden – Eden
+#EXTINF:-1,Eden
 http://62.210.93.115:80/live?channelId=62&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,GOLD – GOLD
+#EXTINF:-1,GOLD
 http://62.210.93.115:80/live?channelId=63&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Pick – Pick
+#EXTINF:-1,Pick
 http://62.210.93.115:80/live?channelId=64&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Really – Really
+#EXTINF:-1,Really
 http://62.210.93.115:80/live?channelId=65&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Yesterday – Yesterday
+#EXTINF:-1,Yesterday
 http://62.210.93.115:80/live?channelId=66&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,W – W
+#EXTINF:-1,W
 http://62.210.93.115:80/live?channelId=67&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,Universal – Universal
+#EXTINF:-1,Universal
 http://62.210.93.115:80/live?channelId=68&deviceMac=00:1A:79:3C:C8:B7&uid=3424
-#EXTINF:-1,QUEST – QUEST
+#EXTINF:-1,QUEST 
 http://62.210.93.115:80/live?channelId=69&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,sat100
 http://62.210.93.115:80/live?channelId=100
