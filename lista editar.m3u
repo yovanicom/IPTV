@@ -939,7 +939,7 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 http://127.0.0.1
 
 0
-#EXTINF:-1,LA 1 HD ES
+#EXTINF:0,LA 1 HD ES
 http://89.38.96.146:5890/said01/01said/3022
 #EXTINF:-1,LA 1 ES
 http://89.38.96.146:5890/said01/01said/490
@@ -961,7 +961,7 @@ http://89.38.96.146:5890/said01/01said/818
 http://89.38.96.146:5890/said01/01said/3025
 #EXTINF:-1,LA SEXTA ES
 http://89.38.96.146:5890/said01/01said/527
-#EXTINF:-1,NEOX ES
+#EXTINF:0,NEOX ES
 http://89.38.96.146:5890/said01/01said/1002
 #EXTINF:-1,NOVA ES
 http://89.38.96.146:5890/said01/01said/1003
