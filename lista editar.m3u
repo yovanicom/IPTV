@@ -113,9 +113,9 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track="es" network-caching=1000
+#EXTVLCOPT:audio-track="spa" "en" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
-#EXTINF:0 tvg-id="HBO2.mx",HBO 2 ES
+#EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0,HBO Hits
