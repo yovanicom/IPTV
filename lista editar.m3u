@@ -113,21 +113,15 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track="spa" "en" network-caching=1000
+#EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:0,HBO Hits
-#EXTVLCOPT:network-caching=1000
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
-#EXTINF:0,HBO Hits
-#EXTVLCOPT:network-caching=1000
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
-#EXTINF:0,MAX Prime HD ES
+#EXTINF:0 tvg-id="MaxPrimeHD.ar" ,MAX Prime HD
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:0,ZEE World
+#EXTINF:0 tvg-id="ZeeCinema.uk" ,ZEE World
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226542/index.m3u8
 
@@ -138,16 +132,16 @@ http://127.0.0.1
 #EXTINF:0,ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1,SPORTSMAX
+#EXTINF:0,SPORTSMAX
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1,SPORTSMAX
+#EXTINF:0,SPORTSMAX
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:0,SPORTS MAX
+#EXTINF:0 tvg-id="BeINSportsMAX1.es",SPORTS MAX
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:0,SPORTS MAX 2
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" ,SPORTS MAX 2
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226777/index.m3u8
 #EXTINF:0,CDO DEPORTES HD
@@ -163,25 +157,25 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0, AZTECA 13 MX
+#EXTINF:0 tvg-id="Azteca13.mx" , AZTECA 13
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,Azteca Plus
+#EXTINF:0 tvg-id="OnceTV.mx",Azteca Plus
 #EXTVLCOPT:network-caching=1000
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Azteca Mas
+#EXTINF:0 tvg-id="",Azteca Mas
 #EXTVLCOPT:network-caching=1000
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:0, Azteca Uno
+#EXTINF:0 tvg-id="+, Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:0, Azteca Uno
+#EXTINF:0 tvg-id="", Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
-#EXTINF:0,Azteca Uno
+#EXTINF:0 tvg-id="",Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:0,Azteca Uno
+#EXTINF:0 tvg-id="",Azteca Uno
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:0,A+
@@ -214,13 +208,19 @@ http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 #EXTINF:0,EFEKTO TV
 #EXTVLCOPT:network-caching=1000
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
-#EXTINF:0, Capital 21 CDMX
+#EXTINF:0,Aprende TV Mexico City
+#EXTVLCOPT:network-caching=1000
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:0,Capital 21 Mexico City
+#EXTVLCOPT:network-caching=1000
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0 tvg-id="CanalCapital21.mx" , Capital 21 CDMX
 #EXTVLCOPT:network-caching=1000
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:0, Capital 21 Mexico City
+#EXTINF:0 tvg-id="CanalCapital21.mx" , Capital 21 Mexico City
 #EXTVLCOPT:network-caching=1000
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
-#EXTINF:0,ADN 40
+#EXTINF:0 tvg-id="Canal4Guadalajara.mx",ADN 40
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
 #EXTINF:0,ADN 40
@@ -229,21 +229,9 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&r
 #EXTINF:0,ADN 40
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:0, Az Corazon STD
-#EXTVLCOPT:network-caching=1000
-http://usuarios.club/usuarios/src5/azcorazon/mayo/mayo.m3u8
-#EXTINF:0, TV Cuatro 4.1 | HD
-#EXTVLCOPT:network-caching=1000
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-#EXTINF:0, TV Cuatro 4.2 | HD
-#EXTVLCOPT:network-caching=1000
-https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 #EXTINF:0, TVP MAZATLÁN
 #EXTVLCOPT:network-caching=1000
 https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
-#EXTINF:0, TVP MOCHIS
-#EXTVLCOPT:network-caching=1000
-https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
 #EXTINF:0, TVP CULIACÁN
 #EXTVLCOPT:network-caching=1000
 https://5a3911d64928b.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
@@ -256,12 +244,9 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
 #EXTINF:0,TV Campeche
 #EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:0,Milenio TV
+#EXTINF:0 tvg-id="MilenioTV.mx",Milenio TV
 #EXTVLCOPT:network-caching=1000
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0,Multimedios Monterrey
-#EXTVLCOPT:network-caching=1000
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:0,TVMas
 #EXTVLCOPT:network-caching=1000
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
@@ -274,30 +259,21 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m
 #EXTINF:0,Pinguino TV HD
 #EXTVLCOPT:network-caching=1000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:0,Aprende TV Mexico City
-#EXTVLCOPT:network-caching=1000
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 #EXTINF:0,OchoTV
 #EXTVLCOPT:network-caching=1000
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:0,Capital 21 Mexico City
-#EXTVLCOPT:network-caching=1000
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:0,Canal Once
+#EXTINF:0 tvg-id="OnceTV.mx" ,Canal Once
 #EXTVLCOPT:network-caching=1000
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:0,Canal Once
+#EXTINF:0 tvg-id="OnceTV.mx" ,Canal Once
 #EXTVLCOPT:network-caching=1000
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:0,Canal Once 26.1
+#EXTINF:0 tvg-id="OnceTV.mx" ,Canal Once 26.1
 #EXTVLCOPT:network-caching=1000
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 #EXTINF:0,Ultra TV Aguascalientes
 #EXTVLCOPT:network-caching=1000
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-#EXTINF:0,Canal del Congreso
-#EXTVLCOPT:network-caching=1000
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--ARGENTINA--", [COLOR blue]--ARGENTINA--[/COLOR]
 http://127.0.0.1
