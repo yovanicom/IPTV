@@ -73,15 +73,20 @@ http://127.0.0.1
 #EXTINF:0,FOX
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
-#EXTINF:-1,FOX Premium Comedy
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" ,FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" ,Fox Comedy
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0 tvg-id="FoxPremiumCinema.ar" ,FOX CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
 #EXTINF:0,NBC
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:0,NBC
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:0,Fish Channel
+#EXTINF:0 tvg-id="WorldFishingNetwork.ca" ,Fish Channel
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:0,Universal Channel HD
@@ -90,18 +95,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:0,INFO FILM MAX TV
 #EXTVLCOPT:network-caching=1000
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:0,Sony Movie Channel
+#EXTINF:0 tvg-id="SonyMovieChannelHD.us" ,Sony Movie Channel
 #EXTVLCOPT:network-caching=1000
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:0,Sony Movie Channel
+#EXTINF:0 tvg-id="SonyMovieChannelHD.us" ,Sony Movie Channel
 #EXTVLCOPT:network-caching=1000
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-#EXTINF:0,Fox Comedy
-#EXTVLCOPT:network-caching=1000
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0,FOX CINEMA
-http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
 #EXTINF:0,Showtime
 #EXTVLCOPT:network-caching=1000
 http://80.80.160.168/live/7/live.m3u8
@@ -110,13 +109,13 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:0,HBO
 #EXTVLCOPT:network-caching=1000
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0,HBO 2
+#EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0,HBO 2
-#EXTVLCOPT:audio-track="spa" network-caching=1000
+#EXTINF:0 tvg-id="HBO2.mx",HBO 2
+#EXTVLCOPT:audio-track="es" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
-#EXTINF:0,HBO 2 ES
+#EXTINF:0 tvg-id="HBO2.mx",HBO 2 ES
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0,HBO Hits
@@ -938,254 +937,7 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--PREMIUM TEST--", [COLOR Red]--PREMIUM TEST--[/COLOR]
 http://127.0.0.1
 
-0
-#EXTINF:0,LA 1 HD ES
-http://89.38.96.146:5890/said01/01said/3022
-#EXTINF:-1,LA 1 ES
-http://89.38.96.146:5890/said01/01said/490
-#EXTINF:-1,LA 2 ES
-http://89.38.96.146:5890/said01/01said/489
-#EXTINF:-1,ANTENA 3 HD ES
-http://89.38.96.146:5890/said01/01said/2933
-#EXTINF:-1,ANTENA 3 ES
-http://89.38.96.146:5890/said01/01said/545
-#EXTINF:-1,CUATRO HD ES
-http://89.38.96.146:5890/said01/01said/2986
-#EXTINF:-1,CUATRO ES
-http://89.38.96.146:5890/said01/01said/817
-#EXTINF:-1,TELECINCO HD ES
-http://89.38.96.146:5890/said01/01said/3085
-#EXTINF:-1,TELECINCO ES
-http://89.38.96.146:5890/said01/01said/818
-#EXTINF:-1,LA SEXTA HD ES
-http://89.38.96.146:5890/said01/01said/3025
-#EXTINF:-1,LA SEXTA ES
-http://89.38.96.146:5890/said01/01said/527
-#EXTINF:0,NEOX ES
-http://89.38.96.146:5890/said01/01said/1002
-#EXTINF:-1,NOVA ES
-http://89.38.96.146:5890/said01/01said/1003
-#EXTINF:-1,ATRE SERIES HD ES
-http://89.38.96.146:5890/said01/01said/912
-#EXTINF:-1,MEGA HD ES
-http://89.38.96.146:5890/said01/01said/3115
-#EXTINF:-1,MEGA ES
-http://89.38.96.146:5890/said01/01said/526
-#EXTINF:-1,TV Galicia ES
-http://89.38.96.146:5890/said01/01said/3015
-#EXTINF:-1,DIVINITY ES
-http://89.38.96.146:5890/said01/01said/1384
-#EXTINF:-1,ENERGY ES
-http://89.38.96.146:5890/said01/01said/1383
-#EXTINF:-1,XTRM ES
-http://89.38.96.146:5890/said01/01said/1389
-#EXTINF:-1,24 HORAS ES
-http://89.38.96.146:5890/said01/01said/3006
-#EXTINF:-1,SUNDANCE TV ES
-http://89.38.96.146:5890/said01/01said/5224
-#EXTINF:-1,CANAL SUR 1 HD ES
-http://89.38.96.146:5890/said01/01said/13435
-#EXTINF:-1,CANAL SUR A. ES
-http://89.38.96.146:5890/said01/01said/1377
-#EXTINF:-1,LA OTRA ES
-http://89.38.96.146:5890/said01/01said/1005
-#EXTINF:-1,Tele Madrid ES
-http://89.38.96.146:5890/said01/01said/13434
-#EXTINF:-1,Antena3 /24 ES
-http://89.38.96.146:5890/said01/01said/1006
-#EXTINF:-1,ARAGON TV ES
-http://89.38.96.146:5890/said01/01said/14197
-#EXTINF:-1,BE MAD HD ES
-http://89.38.96.146:5890/said01/01said/14193
-#EXTINF:-1,CMM TV ES
-http://89.38.96.146:5890/said01/01said/14201
-#EXTINF:-1,ETB 1 ES
-http://89.38.96.146:5890/said01/01said/14200
-#EXTINF:-1,TV 7 MURCIA ES
-http://89.38.96.146:5890/said01/01said/14198
-#EXTINF:-1,TV CANARIAS ES
-http://89.38.96.146:5890/said01/01said/14202
-#EXTINF:-1,INTERCONOMIA TV ES
-http://89.38.96.146:5890/said01/01said/14199
-#EXTINF:-1,–Deportes|Full¡1080p|–
-http://89.38.96.146:5890/said01/01said/3108
-#EXTINF:-1,#VAMOS HD ES
-http://89.38.96.146:5890/said01/01said/3032
-#EXTINF:-1,#VAMOS ES
-http://89.38.96.146:5890/said01/01said/1817
-#EXTINF:-1,GOL TV HD ES
-http://89.38.96.146:5890/said01/01said/7760
-#EXTINF:-1,GOL TV ES
-http://89.38.96.146:5890/said01/01said/2038
-#EXTINF:-1,LaLigatv bar HD ES
-http://89.38.96.146:5890/said01/01said/3027
-#EXTINF:-1,LaLigatv bar ES
-http://89.38.96.146:5890/said01/01said/534
-#EXTINF:-1,LaLiga 1|2|3 TV ES
-http://89.38.96.146:5890/said01/01said/5096
-#EXTINF:-1,LaLiga 1|2|3 TV M1 ES
-http://89.38.96.146:5890/said01/01said/14190
-#EXTINF:-1,LaLiga 1|2|3 TV M2 ES
-http://89.38.96.146:5890/said01/01said/14191
-#EXTINF:-1,LaLiga 1|2|3 TV M3 ES
-http://89.38.96.146:5890/said01/01said/14192
-#EXTINF:-1,Movistar Deportes 1 HD ES
-http://89.38.96.146:5890/said01/01said/3031
-#EXTINF:-1,Movistar Deportes 1 ES
-http://89.38.96.146:5890/said01/01said/536
-#EXTINF:-1,Movistar Partidazo HD ES
-http://89.38.96.146:5890/said01/01said/3042
-#EXTINF:-1,Movistar Partidazo ES
-http://89.38.96.146:5890/said01/01said/1386
-#EXTINF:-1,Movistar GOLF HD ES
-http://89.38.96.146:5890/said01/01said/3055
-#EXTINF:-1,Movistar GOLF ES
-http://89.38.96.146:5890/said01/01said/1549
-#EXTINF:-1,Movistar MotoGP HD ES
-http://89.38.96.146:5890/said01/01said/3057
-#EXTINF:-1,Movistar MotoGP ES
-http://89.38.96.146:5890/said01/01said/1247
-#EXTINF:-1,M.FORMULA 1 HD ES
-http://89.38.96.146:5890/said01/01said/3053
-#EXTINF:-1,Movistar FORMULA 1 ES
-http://89.38.96.146:5890/said01/01said/1246
-#EXTINF:-1,M.LIGA CAMPEONES HD ES
-http://89.38.96.146:5890/said01/01said/2944
-#EXTINF:-1,M.LIGA CAMPEONES ES
-http://89.38.96.146:5890/said01/01said/2213
-#EXTINF:-1,M.LIGA CAMPEONES1 HD ES
-http://89.38.96.146:5890/said01/01said/2945
-#EXTINF:-1,M.LIGA CAMPEONES1 ES
-http://89.38.96.146:5890/said01/01said/2947
-#EXTINF:-1,M.LIGA CAMPEONES2 HD ES
-http://89.38.96.146:5890/said01/01said/2948
-#EXTINF:-1,M.LIGA CAMPEONES2 ES
-http://89.38.96.146:5890/said01/01said/2950
-#EXTINF:-1,M.LIGA CAMPEONES3 ES
-http://89.38.96.146:5890/said01/01said/2951
-#EXTINF:-1,M.LIGA CAMPEONES4 ES
-http://89.38.96.146:5890/said01/01said/2952
-#EXTINF:-1,M.LIGA CAMPEONES5 ES
-http://89.38.96.146:5890/said01/01said/2953
-#EXTINF:-1,M.LIGA CAMPEONES6 ES
-http://89.38.96.146:5890/said01/01said/2954
-#EXTINF:-1,M.LIGA CAMPEONES7 ES
-http://89.38.96.146:5890/said01/01said/2955
-#EXTINF:-1,M.LIGA CAMPEONES8 ES
-http://89.38.96.146:5890/said01/01said/2956
-#EXTINF:-1, LALIGA MAX HD ES
-http://89.38.96.146:5890/said01/01said/3054
-#EXTINF:-1, LALIGA MAX ES
-http://89.38.96.146:5890/said01/01said/535
-#EXTINF:-1, LALIGA HD ES
-http://89.38.96.146:5890/said01/01said/2942
-#EXTINF:-1, LALIGA ES
-http://89.38.96.146:5890/said01/01said/1410
-#EXTINF:-1, LaLiga 1 HD ES
-http://89.38.96.146:5890/said01/01said/2957
-#EXTINF:-1, LALIGA 1 ES
-http://89.38.96.146:5890/said01/01said/2959
-#EXTINF:-1, LALIGA 2 HD ES
-http://89.38.96.146:5890/said01/01said/2958
-#EXTINF:-1, LALIGA 2 ES
-http://89.38.96.146:5890/said01/01said/2960
-#EXTINF:-1, LALIGA 3 ES
-http://89.38.96.146:5890/said01/01said/2961
-#EXTINF:-1, LALIGA 4 ES
-http://89.38.96.146:5890/said01/01said/2962
-#EXTINF:-1, LALIGA 5 ES
-http://89.38.96.146:5890/said01/01said/2963
-#EXTINF:-1, LALIGA 6 ES
-http://89.38.96.146:5890/said01/01said/2964
-#EXTINF:-1, LALIGA 7 ES
-http://89.38.96.146:5890/said01/01said/2965
-#EXTINF:-1, LALIGA 8 ES
-http://89.38.96.146:5890/said01/01said/2966
-#EXTINF:-1,EUROSPORT1 HD ES
-http://89.38.96.146:5890/said01/01said/3103
-#EXTINF:-1,EUROSPORT1 ES
-http://89.38.96.146:5890/said01/01said/2504
-#EXTINF:-1,EUROSPORT2 ES
-http://89.38.96.146:5890/said01/01said/3075
-#EXTINF:-1,TELEDEPORTE HD ES
-http://89.38.96.146:5890/said01/01said/1380
-#EXTINF:-1,TELEDEPORTE ES
-http://89.38.96.146:5890/said01/01said/1379
-#EXTINF:-1,TOROS HD ES
-http://89.38.96.146:5890/said01/01said/3091
-#EXTINF:-1,TOROS TV ES
-http://89.38.96.146:5890/said01/01said/1453
-#EXTINF:-1,R. MADRID ES
-http://89.38.96.146:5890/said01/01said/491
-#EXTINF:-1,Barça TV ES
-http://89.38.96.146:5890/said01/01said/542
-#EXTINF:-1,M. eSports ES
-http://89.38.96.146:5890/said01/01said/3060
-#EXTINF:-1,MULTIDEP .1 ES
-http://89.38.96.146:5890/said01/01said/3061
-#EXTINF:-1,MULTIDEP .2 ES
-http://89.38.96.146:5890/said01/01said/3062
-#EXTINF:-1,MULTIDEP .3 ES
-http://89.38.96.146:5890/said01/01said/3063
-#EXTINF:-1,MULTIDEP .4 ES
-http://89.38.96.146:5890/said01/01said/3064
-#EXTINF:-1,MULTIDEP .5 ES
-http://89.38.96.146:5890/said01/01said/3065
-#EXTINF:-1,MULTIFUT 1 ES
-http://89.38.96.146:5890/said01/01said/3059
-#EXTINF:-1,MULTIFUT 2 ES
-http://89.38.96.146:5890/said01/01said/3058
-#EXTINF:-1,MULTIFUT 3 ES
-http://89.38.96.146:5890/said01/01said/3056
-#EXTINF:-1,MULTIFUT 4 ES
-http://89.38.96.146:5890/said01/01said/3052
-#EXTINF:-1,–Cine-|Full¡1080p|–
-http://89.38.96.146:5890/said01/01said/3109
-#EXTINF:-1,#0 HD ES
-http://89.38.96.146:5890/said01/01said/2928
-#EXTINF:-1,#0 ES
-http://89.38.96.146:5890/said01/01said/815
-#EXTINF:-1,M.ESTRENOS HD ES
-http://89.38.96.146:5890/said01/01said/3035
-#EXTINF:-1,M.ESTRENOS ES
-http://89.38.96.146:5890/said01/01said/814
-#EXTINF:-1,M.COMEDIA HD ES
-http://89.38.96.146:5890/said01/01said/3048
-#EXTINF:-1,M.COMEDIA ES
-http://89.38.96.146:5890/said01/01said/540
-#EXTINF:-1,M.ACCI©N HD ES
-http://89.38.96.146:5890/said01/01said/3046
-#EXTINF:-1,M.ACCI©N ES
-http://89.38.96.146:5890/said01/01said/541
-#EXTINF:-1,M.Drama HD ES
-http://89.38.96.146:5890/said01/01said/3049
-#EXTINF:-1,M.Drama ES
-http://89.38.96.146:5890/said01/01said/539
-#EXTINF:-1,M.Cine Doc& Roll HD ES
-http://89.38.96.146:5890/said01/01said/3034
-#EXTINF:-1,M.Cine Doc& Roll ES
-http://89.38.96.146:5890/said01/01said/531
-#EXTINF:-1,M.Cine Español ES
-http://89.38.96.146:5890/said01/01said/2508
-#EXTINF:-1,Movistar Disney HD ES
-http://89.38.96.146:5890/said01/01said/2981
-#EXTINF:-1,M.SERIES HD ES
-http://89.38.96.146:5890/said01/01said/3033
-#EXTINF:-1,M.SERIES ES
-http://89.38.96.146:5890/said01/01said/532
-#EXTINF:-1,M.Series Mania HD ES
-http://89.38.96.146:5890/said01/01said/3045
-#EXTINF:-1,M.Series Mania ES
-http://89.38.96.146:5890/said01/01said/1991
-#EXTINF:-1,TNT HD ES
-http://89.38.96.146:5890/said01/01said/3089
-#EXTINF:-1,TNT ES
-http://89.38.96.146:5890/said01/01said/1016
-#EXTINF:-1,SYFY HD ES
-http://89.38.96.146:5890/said01/01said/3106
-#EXTINF:-1,SYFY ES
-http://89.38.96.146:5890/said01/01said/487
-#EXTM3U
+
 #EXTINF:-1,BBC1 HD – BBC1 HD
 http://62.210.93.115:80/live?channelId=1&deviceMac=00:1A:79:3C:C8:B7&uid=3424
 #EXTINF:-1,BBC2 HD – BBC2 HD
