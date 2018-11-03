@@ -278,9 +278,6 @@ https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--ARGENTINA--", [COLOR blue]--ARGENTINA--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0, 24/7 Noticias
-#EXTVLCOPT:network-caching=1000
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:0,15 TV
 #EXTVLCOPT:network-caching=1000
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
@@ -320,16 +317,19 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 #EXTINF:0, Canal 11 Ushuaia | HD
 #EXTVLCOPT:network-caching=1000
 https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
-#EXTINF:0,Canal 26
+#EXTINF:0 tvg-id="26TV.ar" ,Canal 26
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0,Canal 26
+#EXTINF:0 tvg-id="26TV.ar" ,Canal 26
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" ,Canal 26 Buenos Aires
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:0,Music Top
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:0,Telemax
+#EXTINF:0 tvg-id="Telemax.ar",Telemax
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:0,Aire de Santa Fe
@@ -338,10 +338,7 @@ http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 #EXTINF:0,Litus
 #EXTVLCOPT:network-caching=1000
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:0,Del Aire
-#EXTVLCOPT:network-caching=1000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
-#EXTINF:0,DW
+#EXTINF:0,Un Buen Plano
 #EXTVLCOPT:network-caching=1000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:0,5TV Corrientes
@@ -350,9 +347,6 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:0,13 Max
 #EXTVLCOPT:network-caching=1000
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:0,Canal 26 Buenos Aires
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:0,El 1 Web TV La Matanza
 #EXTVLCOPT:network-caching=1000
 http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
@@ -362,9 +356,6 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:0,Radio TV Neuquen
 #EXTVLCOPT:network-caching=1000
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:0,TECtv
-#EXTVLCOPT:network-caching=1000
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="--NOTICIAS--", [COLOR Red]--NOTICIAS--[/COLOR]
@@ -373,10 +364,10 @@ http://127.0.0.1
 #EXTINF:0,CGTN Documentary
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0,CGTN Español
+#EXTINF:0 tvg-id="CGTN.es" ,CGTN Español
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,RT En Español
+#EXTINF:0 tvg-id="RTEspanol.es" ,RT Español
 #EXTVLCOPT:network-caching=1000
 htthttps://www.youtube.com/watch?v=mV8jp1N2fSw
 #EXTINF:0,RT News
@@ -397,16 +388,16 @@ https://rt-doc.secure.footprint.net/1101.m3u8
 #EXTINF:0,DW English
 #EXTVLCOPT:network-caching=1000
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0,DW Español
+#EXTINF:0 tvg-id="DeutscheWelle.ar" ,DW Español
 #EXTVLCOPT:network-caching=1000
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0,France 24 Español
+#EXTINF:0 tvg-id="FRANCE24.es",France 24 Español
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:0,France 24 English
+#EXTINF:0 tvg-id="france24" ,France 24 English
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0,France 24
+#EXTINF:0 tvg-id="France24.fr" ,France 24
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:0,CNN
@@ -723,7 +714,7 @@ http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--VENEZUELA--", [COLOR yellow]--VENEZUELA--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,Telesur
+#EXTINF:0 tvg-id="Telesur.es" ,Telesur
 #EXTVLCOPT:network-caching=1000
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 
@@ -777,22 +768,19 @@ http://uvodscp-lh.akamaihd.net/i/exitosartmp_1@504435/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--CHILE--", [COLOR Red]--CHILE--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,TV Chile
+#EXTINF:0 tvg-id="13CHD.cl" ,TV Chile
 #EXTVLCOPT:network-caching=1000
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:0,CNN Chile
+#EXTINF:0 tvg-id="CNNChile.cl" ,CNN Chile
 #EXTVLCOPT:network-caching=1000
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0,CNN Chile
+#EXTINF:0 tvg-id="CNNChile.cl" ,CNN Chile
 #EXTVLCOPT:network-caching=1000
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,Carolina TV
-#EXTVLCOPT:network-caching=1000
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:0,Holvoet TV
 #EXTVLCOPT:network-caching=1000
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:0,CHV 4
+#EXTINF:0 tvg-id="Chilevision.cl" ,CHV 4
 #EXTVLCOPT:network-caching=1000
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Tv Senado 2
@@ -807,7 +795,7 @@ http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks
 #EXTINF:0,TELEMILENIO SANTIAGO CHILE
 #EXTVLCOPT:network-caching=1000
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:0, Chilevision (Chile)
+#EXTINF:0 tvg-id="Chilevision.cl" , Chilevision (Chile)
 #EXTVLCOPT:network-caching=1000
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:0, NIU TV | HD
