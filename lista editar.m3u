@@ -626,7 +626,7 @@ http://nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
 #EXTINF:0 tvg-id="Energy.es",ENERGY
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:0 tvg-id="BEMAD.es",BE MAD
+#EXTINF:0 tvg-id="BeMadTV.es",BE MAD
 #EXTVLCOPT:network-caching=100
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:0, NEOX
@@ -650,10 +650,10 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 #EXTINF:0, LA OTRA
 #EXTVLCOPT:network-caching=1000
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0,TELEMADRID
+#EXTINF:0 Telemadrid.es ,TELEMADRID
 #EXTVLCOPT:network-caching=1000
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0, ETBSAT
+#EXTINF:0 ETBSat.es, ETBSAT
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0, TV3
