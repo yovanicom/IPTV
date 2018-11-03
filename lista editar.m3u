@@ -576,10 +576,10 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--ESPAÑA--", [COLOR Yellow]--ESPAÑA--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,España 3/24
+#EXTINF:0  tvg-id="324.es",España 3/24
 #EXTVLCOPT:network-caching=1000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-#EXTINF:0,España 3/24
+#EXTINF:0 tvg-id="324.es" ,España 3/24
 #EXTVLCOPT:network-caching=1000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:0,TRECE
@@ -587,10 +587,10 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:0,TRECE
 #EXTVLCOPT:network-caching=1000
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:0,Canal Extremadura
+#EXTINF:0 tvg-id="CanalExtremadura.es",Canal Extremadura
 #EXTVLCOPT:network-caching=1000
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:0,Canal Extremadura
+#EXTINF:0 tvg-id="CanalExtremadura.es",Canal Extremadura
 #EXTVLCOPT:network-caching=1000
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 #EXTINF:0,Divinity
@@ -605,37 +605,37 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0,FDF
 #EXTVLCOPT:network-caching=1000
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
-#EXTINF:0, ATRE Series ES
+#EXTINF:0 tvg-id="A3seriesHD.es", ATRE Series
 #EXTVLCOPT:network-caching=1000
 http://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
-#EXTINF:0, ANTENA 3 ES
+#EXTINF:0 tvg-id="Antena3.sp", ANTENA 3
 #EXTVLCOPT:network-caching=1000
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
-#EXTINF:0, ANTENA 3 ES
+#EXTINF:0 tvg-id="Antena3.sp" , ANTENA 3
 #EXTVLCOPT:network-caching=1000
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
-#EXTINF:-1 tvg-id="Mega.es", MEGA ES
+#EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
-#EXTINF:0, MEGA ES
+#EXTINF:0 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
-#EXTINF:0, NOVA ES
+#EXTINF:0 tvg-id="Nova.sp", NOVA
 #EXTVLCOPT:network-caching=1000
 http://nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
-#EXTINF:0,ENERGY
+#EXTINF:0 tvg-id="Energy.es",ENERGY
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:0,BE MAD
+#EXTINF:0 tvg-id="BEMAD.es",BE MAD
 #EXTVLCOPT:network-caching=100
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:0, NEOX
 #EXTVLCOPT:network-caching=1000
 http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
-#EXTINF:0,BOING
+#EXTINF:0 tvg-id="Boing.sp",BOING
 #EXTVLCOPT:network-caching=100
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:0,BOING ES
+#EXTINF:0 tvg-id="Boing.sp" ,BOING ES
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0, La Sexta
