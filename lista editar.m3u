@@ -76,7 +76,7 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--PREMIUM TEMPORAL--", [COLOR red]--PREMIUN TEMPORAL--[/COLOR]
-http://127.0.0.1
+http://vaughnlive.tv/embed/video/rajaduradplacard
 
 #EXTINF:0,FOX
 #EXTVLCOPT:audio-track="en" network-caching=1000
