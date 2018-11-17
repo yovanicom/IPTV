@@ -259,9 +259,7 @@ http://181.224.164.249:8000/play/a01a
 #EXTINF:0,Universal
 #EXTVLCOPT:network-caching=1000
 http://181.224.164.249:8000/play/a022
-#EXTINF:0,Venus.
-#EXTVLCOPT:network-caching=1000
-http://181.224.164.249:8000/play/a024
+
 
 
 
