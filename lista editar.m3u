@@ -247,12 +247,6 @@ http://181.224.164.249:8000/play/a02f
 #EXTINF:0,Paramount Channel
 #EXTVLCOPT:network-caching=1000
 http://181.224.164.249:8000/play/a00s
-#EXTINF:0,Playboy.
-#EXTVLCOPT:network-caching=1000
-http://181.224.164.249:8000/play/a02n
-#EXTINF:0,Sextreme
-#EXTVLCOPT:network-caching=1000
-http://181.224.164.249:8000/play/a02o
 #EXTINF:0,Studio Universal
 #EXTVLCOPT:network-caching=1000
 http://181.224.164.249:8000/play/a029
