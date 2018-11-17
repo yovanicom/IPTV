@@ -52,8 +52,9 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:0,ANIME TV
 #EXTVLCOPT:network-caching=1000
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,Holvoet
-http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/playlist.m3u8
+#EXTINF:0,Disney xd
+#EXTVLCOPT:network-caching=1000
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
 #EXTINF:0,Locomotion
 #EXTVLCOPT:network-caching=1000
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
@@ -63,9 +64,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 62
 #EXTVLCOPT:network-caching=1000
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us",Telemundo 62
+#EXTINF:0,Telemundo Internacional
 #EXTVLCOPT:network-caching=1000
-http://whostreams.net/c2a9019f-8d6d-4e6c-a693-47482dac9801
+http://181.224.164.249:8000/play/a015
 #EXTINF:0, TDT
 #EXTVLCOPT:network-caching=1000
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
@@ -149,6 +150,124 @@ http://161.0.157.9/PLTV/88888888/224/3221226542/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1,B4U MOVIE
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTM3U
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01w
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01q
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00p
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01t
+#EXTINF:0,De Pel#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a011
+#EXTINF:0,Discovery Civilization
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00x
+#EXTINF:0,Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02v
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00q
+#EXTINF:0,Disney Xd
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00w
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00y
+#EXTINF:0,FOX Sport opc4
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a037
+#EXTINF:0,Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01r
+#EXTINF:0,Fox Cinema
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a017
+#EXTINF:0,Fox Classics.
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a034
+#EXTINF:0,Fox Comedy
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a018
+#EXTINF:0,Fox News
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02m
+#EXTINF:0,Fox Sports opc3
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a036
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00r
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01m
+#EXTINF:0,Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01g
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02e
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01y
+#EXTINF:0,HBO2
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01z
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00z
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a028
+#EXTINF:0,Max.
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02a
+#EXTINF:0,Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a013
+#EXTINF:0,Movistar Plus
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a014
+#EXTINF:0,Movistar Series
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01p
+#EXTINF:0,Movistar TV
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01o
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02f
+#EXTINF:0,Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a00s
+#EXTINF:0,Playboy.
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02n
+#EXTINF:0,Sextreme
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02o
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a029
+#EXTINF:0,SyFy
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a02i
+#EXTINF:0,Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a01a
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a022
+#EXTINF:0,Venus.
+#EXTVLCOPT:network-caching=1000
+http://181.224.164.249:8000/play/a024
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="--DEPORTE--", [COLOR Red]--DEPORTE--[/COLOR]
@@ -634,6 +753,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:0, NEOX
 #EXTVLCOPT:network-caching=1000
+https://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 #EXTINF:0 tvg-id="Boing.sp",BOING
 #EXTVLCOPT:network-caching=100
