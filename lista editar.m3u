@@ -163,7 +163,8 @@ http://181.224.164.249:8000/play/a00p
 #EXTINF:0,Comedy Central
 #EXTVLCOPT:network-caching=1000
 http://181.224.164.249:8000/play/a01t
-#EXTINF:0,De Pel#EXTVLCOPT:network-caching=1000
+#EXTINF:0,De Pe
+#EXTVLCOPT:network-caching=1000
 http://181.224.164.249:8000/play/a011
 #EXTINF:0,Discovery Civilization
 #EXTVLCOPT:network-caching=1000
