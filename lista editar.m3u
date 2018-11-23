@@ -64,7 +64,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 62
 #EXTVLCOPT:network-caching=1000
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" Telemundo
+#EXTINF:0 tvg-id="Telemundo internacional" ,Telemundo
 #EXTVLCOPT:network-caching=1000
 https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
 #EXTINF:0, TDT
