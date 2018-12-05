@@ -722,58 +722,99 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:0,CANAL 25
 #EXTVLCOPT:network-caching=1000
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,Sp | Natgeo Wild
-http://formen1.com:8080/live/angel35/35angel/11250.m3u8
-#EXTINF:-1,Sp | Odisea
-http://formen1.com:8080/live/angel35/35angel/11270.m3u8
-#EXTINF:-1,Sp | Syfy Universal Spain
-http://formen1.com:8080/live/angel35/35angel/11248.m3u8
-#EXTINF:-1,Sp | Telecinco
-http://formen1.com:8080/live/angel35/35angel/11246.m3u8
-#EXTINF:-1,Sp | Tnt
-http://formen1.com:8080/live/angel35/35angel/11249.m3u8
-#EXTINF:-1,Sp | Tve Internacional
-http://formen1.com:8080/live/angel35/35angel/11239.m3u8
-#EXTINF:-1,Sp | Dcine
-http://formen1.com:8080/live/angel35/35angel/2651.m3u8
-#EXTINF:-1,Sp | Cuatro
-http://formen1.com:8080/live/angel35/35angel/2652.m3u8
-#EXTINF:-1,Sp | Antena 3 Hd
-http://formen1.com:8080/live/angel35/35angel/2659.m3u8
-#EXTINF:-1,Sp | Tve La1
-http://formen1.com:8080/live/angel35/35angel/2666.m3u8
-#EXTINF:-1,Sp | Bein Sport Es
-http://formen1.com:8080/live/angel35/35angel/2639.m3u8
-#EXTINF:-1,Sp | National Geographic Spain
-http://formen1.com:8080/live/angel35/35angel/11251.m3u8
-#EXTINF:-1,Sp | Discovery Channel
-http://formen1.com:8080/live/angel35/35angel/2650.m3u8
-#EXTINF:-1,Sp | Nat Geo Wild
-http://formen1.com:8080/live/angel35/35angel/2643.m3u8
-#EXTINF:-1,Sp | La 1
-http://formen1.com:8080/live/angel35/35angel/11242.m3u8
-#EXTINF:-1,Sp | La 2
-http://formen1.com:8080/live/angel35/35angel/11243.m3u8
-#EXTINF:-1,Sp | La Sexta
-http://formen1.com:8080/live/angel35/35angel/11244.m3u8
-#EXTINF:-1,Sp | Andalucia Tv
-http://formen1.com:8080/live/angel35/35angel/11245.m3u8
-#EXTINF:-1,Sp | Antena 3
-http://formen1.com:8080/live/angel35/35angel/11241.m3u8
-#EXTINF:-1,Sp | Antena Nova
-http://formen1.com:8080/live/angel35/35angel/11255.m3u8
-#EXTINF:-1,Sp | Axn Spain
-http://formen1.com:8080/live/angel35/35angel/11256.m3u8
-#EXTINF:-1,Sp | Axn White Spain
-http://formen1.com:8080/live/angel35/35angel/11257.m3u8
-#EXTINF:-1,Sp | C AcciÓn
-http://formen1.com:8080/live/angel35/35angel/11258.m3u8
-#EXTINF:-1,Sp | C Comedia
-http://formen1.com:8080/live/angel35/35angel/11259.m3u8
-#EXTINF:-1,Sp | C Dcine
-http://formen1.com:8080/live/angel35/35angel/11264.m3u8
-#EXTINF:-1,Sp | Calle 13
-http://formen1.com:8080/live/angel35/35angel/11260.m3u8
+#EXTINF:-1,FDF (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.m3u8
+
+#EXTINF:-1,NOVA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8
+
+#EXTINF:-1,LA SEXTA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8
+
+#EXTINF:-1,TELECINCO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.m3u8
+
+#EXTINF:-1,CUATRO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.m3u8
+
+#EXTINF:-1,ANTENA 3 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.m3u8
+
+#EXTINF:-1,LA2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/808.m3u8
+
+#EXTINF:-1,HISTORIA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8
+
+#EXTINF:-1,CRIME & INVESTIGATION (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8
+
+#EXTINF:-1,DISCOVERY (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8
+
+#EXTINF:-1,NAT GEO WILD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8
+
+#EXTINF:-1,NAT GEO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
+
+#EXTINF:-1,CALLE 13 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8
+
+#EXTINF:-1,TCM HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8
+
+#EXTINF:-1,TNT HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
+
+#EXTINF:-1,AXN WHITE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8
+
+#EXTINF:-1,AXN HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8
+
+#EXTINF:-1,AMC HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8
+
+#EXTINF:-1,FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8
+
+#EXTINF:-1,FOX HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8
+
+#EXTINF:-1,HOLLYWOOD HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8
+
+#EXTINF:-1,M. SERIES XTRA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8
+
+#EXTINF:-1,M. SERIES (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8
+
+#EXTINF:-1,M. XTRA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8
+
+#EXTINF:-1,M CINE ESPANOL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8
+
+#EXTINF:-1,M. DCINE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8
+
+#EXTINF:-1,M. COMEDIA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8
+
+#EXTINF:-1,M. ACCION HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8
+
+#EXTINF:-1,M. ESTRENOS HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8
+
+#EXTINF:-1,ANDALUCIA TV (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/798.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8
