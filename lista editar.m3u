@@ -135,7 +135,7 @@ http://87.246.0.155:5286/tv_HBO
 #EXTVLCOPT:audio-track="en, spa" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track="en, spa" network-caching=1000
+#EXTVLCOPT:audio-track="" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track="spa" network-caching=1000
