@@ -138,7 +138,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTVLCOPT:audio-track="" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track="" network-caching=1000
+#EXTVLCOPT:audio-track="1,2" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0 tvg-id="MaxPrimeHD.ar",MAX Prime HD
 #EXTVLCOPT:network-caching=1000
