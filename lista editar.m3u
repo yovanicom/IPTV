@@ -75,6 +75,8 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0, MIAMI TV
 #EXTVLCOPT:network-caching=1000
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0 group-title="NC Nth Carolina",WTVD 11 News - 11 DT - Raleigh - NC Nth Carolina
+http://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/WTVDwatch.m3u8?tc=1&amp;exp=1444262002849&amp;rn=4439.899038649512&amp;ct=c&amp;oid=f05837c508c44712aa7129d531f7dbe6&amp;eid=WTVDwatch&amp;ad=watchwtvdlive&amp;ad.kv=station%2Cwtvd&amp;ad.adUnit=midroll&amp;ad.flex=0&amp;ad._v=2&amp;sig=7dbe96acbf48f59c314e35a359ddeca3d9b82e64f543dfac03884291cc7922c3&amp;ad.cping=1&amp;referer=abc11.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--PREMIUM TEMPORAL--", [COLOR red]--PREMIUN TEMPORAL--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8eef89e563f20a4fc0a686.m3u8
@@ -135,7 +137,7 @@ http://87.246.0.155:5286/tv_HBO
 #EXTVLCOPT:audio-track="2" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track="unkown" network-caching=1000
+#EXTVLCOPT:audio-track="unknown" network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track=1,2 network-caching=1000
@@ -612,14 +614,13 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 http://nitro.ltd:25461/live/ruya/ruya/3323.m3u8
 #EXTINF:0 tvg-id="A3seriesHD.es", ATRE Series
 #EXTVLCOPT:network-caching=1000
-http://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
+https://pull2a-i.akamaized.net/a3series/master.m3u8
 #EXTINF:0 tvg-id="Antena3.sp", ANTENA 3
 #EXTVLCOPT:network-caching=1000
-https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0 tvg-id="Antena3.sp" , ANTENA 3
 #EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/ruya/ruya/3362.m3u8
+https://pull2b-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
@@ -647,6 +648,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:0 tvg-id="Boing.sp",BOING ES
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="",Peque Radio
+#EXTVLCOPT:network-caching=1000
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
@@ -659,12 +663,32 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 #EXTINF:0, LA OTRA
 #EXTVLCOPT:network-caching=1000
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:0, Travel Tv
+#EXTVLCOPT:network-caching=1000
+http://194.179.53.124:8080/hls/traveltv/.m3u8
+#EXTINF:0, 101 Tv
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
+#EXTINF:0, MediaTV
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
+#EXTINF:0, RES PAIN TV
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97/RedTVSpain1/tracks-v1a1/index.m3u8
+#EXTINF:0, Pride channel
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
+#EXTINF:0, fibwi
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97/fibwiLIVE1/playlist.m3u8
 #EXTINF:0 tvg-id="Telemadrid.es",TELEMADRID
 #EXTVLCOPT:network-caching=1000
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="ETBSat.es",ETBSAT
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-id="",CINCOMAS
+http://photocall.000webhostapp.com/EA8g1TX51S/v1.php/cincomas/index.m3u8
 #EXTINF:0, TV3
 #EXTVLCOPT:network-caching=1000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
