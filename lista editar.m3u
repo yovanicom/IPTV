@@ -247,7 +247,22 @@ http://danntvh.dyndns.org:8000/live/upsat/upsatnew/562.ts
 #EXTINF:-1,A&E
 http://danntvh.dyndns.org:8000/live/upsat/upsatnew/561.ts
 
-
+#EXTINF:0,ESA-CANAL10
+http://51.15.144.38:8080/play/a068/index.m3u8
+#EXTINF:0,ESA-CANAL11TUTV
+http://51.15.144.38:8080/play/ESA-CANAL11TUTV/index.m3u8
+#EXTINF:0,ESA-CANAL12
+http://51.15.144.38:8080/play/a06s/index.m3u8
+#EXTINF:0,ESA-CANAL19
+http://51.15.144.38:8080/play/a06x/index.m3u8
+#EXTINF:0,ESA-CANAL2
+http://51.15.144.38:8080/play/a06u/index.m3u8
+#EXTINF:0,ESA-CANAL21
+http://51.15.144.38:8080/play/a06v/index.m3u8
+#EXTINF:0,ESA-CANAL4
+http://51.15.144.38:8080/play/a06t/index.m3u8
+#EXTINF:0,ESA-CANAL6
+http://51.15.144.38:8080/play/a06y/index.m3u8
 #EXTINF:0,ESA-TVO
 http://51.15.144.38:8080/play/a04h/index.m3u8
 #EXTINF:0,ESA-TVX
@@ -935,6 +950,42 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTVLCOPT:network-caching=1000
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 
+#EXTINF:0,A3SERIES
+http://51.15.144.38:8080/play/a08h/index.m3u8
+#EXTINF:0,ANDRES ROCA REY
+http://51.15.144.38:8080/play/a00k/index.m3u8
+#EXTINF:0,ANTENA3
+http://51.15.144.38:8080/play/a00g/index.m3u8
+#EXTINF:0,BEINGESPANA
+http://51.15.144.38:8080/play/a02b/index.m3u8
+#EXTINF:0,BEINGLIGA
+http://51.15.144.38:8080/play/a02a/index.m3u8
+#EXTINF:0,FORMULA1
+http://51.15.144.38:8080/play/a01w/index.m3u8
+#EXTINF:0,HOLATV
+http://51.15.144.38:8080/play/a05i/index.m3u8
+#EXTINF:0,LA1
+http://51.15.144.38:8080/play/a09h/index.m3u8
+#EXTINF:0,LA2
+http://51.15.144.38:8080/play/a061/index.m3u8
+#EXTINF:0,LANCELOTTV
+http://51.15.144.38:8080/play/a07w/index.m3u8
+#EXTINF:0,LASEXTA
+http://51.15.144.38:8080/play/a07x/index.m3u8
+#EXTINF:0,LIGAMOVISTAR
+http://51.15.144.38:8080/play/a03g/index.m3u8
+#EXTINF:0,MEGA
+http://51.15.144.38:8080/play/a07t/index.m3u8
+#EXTINF:0,MOVISTAR0
+http://51.15.144.38:8080/play/a02d/index.m3u8
+#EXTINF:0,NEOX
+http://51.15.144.38:8080/play/a050/index.m3u8
+#EXTINF:0,NOVA
+http://51.15.144.38:8080/play/a05h/index.m3u8
+#EXTINF:0,TOROS
+http://51.15.144.38:8080/play/a01m/index.m3u8
+
+
 #EXTINF:-1 tvg-id="LA 1" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="TDT",LA 1
 http://iptvtool.es:9977/live/jolines/iptv/37102.ts
 
@@ -1094,40 +1145,6 @@ http://iptvtool.es:9977/live/jolines/iptv/37001.ts
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8
 
-#EXTINF:0,ES-A3SERIES
-http://51.15.144.38:8080/play/a08h/index.m3u8
-#EXTINF:0,ES-ANDRES ROCA REY
-http://51.15.144.38:8080/play/a00k/index.m3u8
-#EXTINF:0,ES-ANTENA3
-http://51.15.144.38:8080/play/a00g/index.m3u8
-#EXTINF:0,ES-BEINGESPANA
-http://51.15.144.38:8080/play/a02b/index.m3u8
-#EXTINF:0,ES-BEINGLIGA
-http://51.15.144.38:8080/play/a02a/index.m3u8
-#EXTINF:0,ES-FORMULA1
-http://51.15.144.38:8080/play/a01w/index.m3u8
-#EXTINF:0,ES-HOLATV
-http://51.15.144.38:8080/play/a05i/index.m3u8
-#EXTINF:0,ES-LA1
-http://51.15.144.38:8080/play/a09h/index.m3u8
-#EXTINF:0,ES-LA2
-http://51.15.144.38:8080/play/a061/index.m3u8
-#EXTINF:0,ES-LANCELOTTV
-http://51.15.144.38:8080/play/a07w/index.m3u8
-#EXTINF:0,ES-LASEXTA
-http://51.15.144.38:8080/play/a07x/index.m3u8
-#EXTINF:0,ES-LIGAMOVISTAR
-http://51.15.144.38:8080/play/a03g/index.m3u8
-#EXTINF:0,ES-MEGA
-http://51.15.144.38:8080/play/a07t/index.m3u8
-#EXTINF:0,ES-MOVISTAR0
-http://51.15.144.38:8080/play/a02d/index.m3u8
-#EXTINF:0,ES-NEOX
-http://51.15.144.38:8080/play/a050/index.m3u8
-#EXTINF:0,ES-NOVA
-http://51.15.144.38:8080/play/a05h/index.m3u8
-#EXTINF:0,ES-TOROS
-http://51.15.144.38:8080/play/a01m/index.m3u8
 
 #EXTINF:-1,Canal 10 ESA
 #EXTVLCOPT:network-caching=1000
