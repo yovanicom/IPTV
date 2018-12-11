@@ -12,11 +12,7 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Telemax".ar,TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:0 tvg-id="Telemax", TELEMAX
-#EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Telemax",TELEMAX
-#EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 #EXTINF:0,TRAVEL Bulgaria
 #EXTVLCOPT:network-caching=1000
@@ -24,15 +20,8 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0,Silence TV
 #EXTVLCOPT:network-caching=1000
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-#EXTINF:0,Silence TV
-#EXTVLCOPT:network-caching=1000
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-#EXTINF:0,Silence TV
-#EXTVLCOPT:network-caching=1000
 http://bit.ly/2wxlPQD
-#EXTINF:0,ORBIT TV
-#EXTVLCOPT:network-caching=1000
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:0 tvg-id="FashionTV.eu",Fashion Flix
 #EXTVLCOPT:network-caching=1000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -42,16 +31,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Canal Principal
 #EXTVLCOPT:network-caching=1000
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:0, CBBC
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/43166.m3u8
-#EXTINF:0, CBeebies
-http://rb-group-server.com:25461/live/karim123/karim123/3758.m3u8
-#EXTINF:0,ANIMAX
-#EXTVLCOPT:network-caching=1000
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:0,ANIME TV
-#EXTVLCOPT:network-caching=1000
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0,Disney xd
 #EXTVLCOPT:network-caching=1000
 http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
@@ -70,8 +49,6 @@ https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
 #EXTINF:0, TDT
 #EXTVLCOPT:network-caching=1000
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:-1,CBN Espanol
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0, MIAMI TV
 #EXTVLCOPT:network-caching=1000
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
@@ -102,7 +79,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:0 tvg-id="WorldFishingNetwork.ca",Fish Channel
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:0,Universal Channel HD
+#EXTINF:0 tvg-id="UniversalHD.us",Universal Channel
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:0,INFO FILM MAX TV
