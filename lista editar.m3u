@@ -407,6 +407,7 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 #EXTINF: -1, TV Tlaxcala
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="--ARGENTINA--", [COLOR blue]--ARGENTINA--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8
 
@@ -856,7 +857,7 @@ http://51.15.144.38:8080/play/a07w/index.m3u8
 http://51.15.144.38:8080/play/a07x/index.m3u8
 #EXTINF:0,LIGAMOVISTAR
 http://51.15.144.38:8080/play/a03g/index.m3u8
-#EXTINF:0,MEGA
+#EXTINF:0 tvg-id="Mega.es", MEGA
 http://51.15.144.38:8080/play/a07t/index.m3u8
 #EXTINF:0,MOVISTAR0
 http://51.15.144.38:8080/play/a02d/index.m3u8
@@ -907,7 +908,7 @@ http://iptvtool.es:9977/live/jolines/iptv/37005.ts
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="TDT",Baby TV
 http://iptvtool.es:9977/live/jolines/iptv/37007.ts
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="TDT",Mega
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="TDT",Mega
 http://iptvtool.es:9977/live/jolines/iptv/37050.ts
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD
