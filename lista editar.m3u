@@ -129,114 +129,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 
 
-#EXTINF:0,ESA-CANAL10
-http://51.15.144.38:8080/play/a068/index.m3u8
-#EXTINF:0,ESA-CANAL11TUTV
-http://51.15.144.38:8080/play/ESA-CANAL11TUTV/index.m3u8
-#EXTINF:0,ESA-CANAL12
-http://51.15.144.38:8080/play/a06s/index.m3u8
-#EXTINF:0,ESA-CANAL19
-http://51.15.144.38:8080/play/a06x/index.m3u8
-#EXTINF:0,ESA-CANAL2
-http://51.15.144.38:8080/play/a06u/index.m3u8
-#EXTINF:0,ESA-CANAL21
-http://51.15.144.38:8080/play/a06v/index.m3u8
-#EXTINF:0,ESA-CANAL4
-http://51.15.144.38:8080/play/a06t/index.m3u8
-#EXTINF:0,ESA-CANAL6
-http://51.15.144.38:8080/play/a06y/index.m3u8
-#EXTINF:0,ESA-TVO
-http://51.15.144.38:8080/play/a04h/index.m3u8
-#EXTINF:0,ESA-TVX
-http://51.15.144.38:8080/play/a042/index.m3u8
-#EXTINF:0,ESA-VTV35
-http://51.15.144.38:8080/play/a06w/index.m3u8
-#EXTINF:0,ESA-WOWTV
-http://51.15.144.38:8080/play/a01r/index.m3u8
-#EXTINF:0,LAT-AMC
-http://51.15.144.38:8080/play/a04t/index.m3u8
-#EXTINF:0,LAT-BOOMERANG
-http://51.15.144.38:8080/play/a00u/index.m3u8
-#EXTINF:0,LAT-CINECANAL
-http://51.15.144.38:8080/play/a08e/index.m3u8
-#EXTINF:0,LAT-CINEMADINAMITA
-http://51.15.144.38:8080/play/a012/index.m3u8
-#EXTINF:0,LAT-CINEMAX
-http://51.15.144.38:8080/play/a08u/index.m3u8
-#EXTINF:0,LAT-CLAROSPORTS
-http://51.15.144.38:8080/play/a07z/index.m3u8
-#EXTINF:0,LAT-DHE
-http://51.15.144.38:8080/play/a08q/index.m3u8
-#EXTINF:0,LAT-DISCOVEKIDS
-http://51.15.144.38:8080/play/a08j/index.m3u8
-#EXTINF:0,LAT-DW
-http://51.15.144.38:8080/play/a06r/index.m3u8
-#EXTINF:0,LAT-ESPN
-http://51.15.144.38:8080/play/a083/index.m3u8
-#EXTINF:0,LAT-ESPN2
-http://51.15.144.38:8080/play/a084/index.m3u8
-#EXTINF:0,LAT-ESPN3
-http://51.15.144.38:8080/play/a085/index.m3u8
-#EXTINF:0,LAT-FILMZONE
-http://51.15.144.38:8080/play/a00z/index.m3u8
-#EXTINF:0,LAT-FOX
-http://51.15.144.38:8080/play/a088/index.m3u8
-#EXTINF:0,LAT-FOXACTION
-http://51.15.144.38:8080/play/a08f/index.m3u8
-#EXTINF:0,LAT-FOXSPORTS
-http://51.15.144.38:8080/play/a080/index.m3u8
-#EXTINF:0,LAT-FOXSPORTS2
-http://51.15.144.38:8080/play/a081/index.m3u8
-#EXTINF:0,LAT-FOXSPORTS3
-http://51.15.144.38:8080/play/a082/index.m3u8
-#EXTINF:0,LAT-GOLTV
-http://51.15.144.38:8080/play/a087/index.m3u8
-#EXTINF:0,LAT-HISPANTV
-http://51.15.144.38:8080/play/a010/index.m3u8
-#EXTINF:0,LAT-MIMUSICA
-http://51.15.144.38:8080/play/a07l/index.m3u8
-#EXTINF:0,LAT-NATGEOWILD
-http://51.15.144.38:8080/play/a014/index.m3u8
-#EXTINF:0,LAT-SPACE
-http://51.15.144.38:8080/play/a08d/index.m3u8
-#EXTINF:0,LAT-TNT
-http://51.15.144.38:8080/play/a00x/index.m3u8
-#EXTINF:0,LAT-TOPLATINOHD
-http://51.15.144.38:8080/play/a08i/index.m3u8
-#EXTINF:0,LAT-TRAVELTV
-http://51.15.144.38:8080/play/a056/index.m3u8
-#EXTINF:0,MEX-ALERTATV
-http://51.15.144.38:8080/play/a015/index.m3u8
-#EXTINF:0,MEX-ALIENTOVISION
-http://51.15.144.38:8080/play/a016/index.m3u8
-#EXTINF:0,MEX-AZTECANOTICIAS
-http://51.15.144.38:8080/play/a04o/index.m3u8
-#EXTINF:0,MEX-AZTECAUNO
-http://51.15.144.38:8080/play/a02e/index.m3u8
-#EXTINF:0,MEX-CANALONCE
-http://51.15.144.38:8080/play/a04m/index.m3u8
-#EXTINF:0,MEX-EFEKTOTV
-http://51.15.144.38:8080/play/a05a/index.m3u8
-#EXTINF:0,MEX-IMPACTOVISION
-http://51.15.144.38:8080/play/a09b/index.m3u8
-#EXTINF:0,MEX-LASESTRELLAS
-http://51.15.144.38:8080/play/a00l/index.m3u8
-#EXTINF:0,MEX-TELEMUNDO
-http://51.15.144.38:8080/play/a059/index.m3u8
-#EXTINF:0,MEX-TELENOVELAS
-http://51.15.144.38:8080/play/a04b/index.m3u8
-#EXTINF:0,MEX-TRAILERTV
-http://51.15.144.38:8080/play/a055/index.m3u8
-#EXTINF:0,MEX-TVMAS
-http://51.15.144.38:8080/play/a043/index.m3u8
-#EXTINF:0,MEX-TVPMOCHIS
-http://51.15.144.38:8080/play/a09k/index.m3u8
-#EXTINF:0,MEX-UNICANAL
-http://51.15.144.38:8080/play/a045/index.m3u8
-#EXTINF:0,MEX-UNIVISION
-http://51.15.144.38:8080/play/a047/index.m3u8
-#EXTINF:0,USA-SHOWTIME
-http://51.15.144.38:8080/play/a076/index.m3u8
+
 
 
 
@@ -709,13 +602,13 @@ http://s742319618.mialojamiento.es/cl3?vid=antena3-pull2b-a3player.secure.footpr
 https://pull2b-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
-https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
+https://pull2a-i.akamaized.net/mega/master.m3u8
 #EXTINF:0 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
 #EXTINF:0 tvg-id="Nova.sp", NOVA
 #EXTVLCOPT:network-caching=1000
-http://nova-pull2c-a3player.secure.footprint.net/nova/master.m3u8
+https://pull2c-i.akamaized.net/nova/master.m3u8
 #EXTINF:0 tvg-id="Nova.sp", NOVA
 http://nitro.ltd:25461/live/ruya/ruya/3310.m3u8
 #EXTINF:0 tvg-id="Energy.es",ENERGY
@@ -739,7 +632,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
-https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
+https://pull2c-i.akamaized.net/lasexta/master.m3u8
 #EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=650000.m3u8
@@ -833,197 +726,282 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTVLCOPT:network-caching=1000
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 
-#EXTINF:0,A3SERIES
-http://51.15.144.38:8080/play/a08h/index.m3u8
-#EXTINF:0,ANDRES ROCA REY
-http://51.15.144.38:8080/play/a00k/index.m3u8
-#EXTINF:0,ANTENA3
-http://51.15.144.38:8080/play/a00g/index.m3u8
-#EXTINF:0,BEINGESPANA
-http://51.15.144.38:8080/play/a02b/index.m3u8
-#EXTINF:0,BEINGLIGA
-http://51.15.144.38:8080/play/a02a/index.m3u8
-#EXTINF:0,FORMULA1
-http://51.15.144.38:8080/play/a01w/index.m3u8
-#EXTINF:0,HOLATV
-http://51.15.144.38:8080/play/a05i/index.m3u8
-#EXTINF:0,LA1
-http://51.15.144.38:8080/play/a09h/index.m3u8
-#EXTINF:0,LA2
-http://51.15.144.38:8080/play/a061/index.m3u8
-#EXTINF:0,LANCELOTTV
-http://51.15.144.38:8080/play/a07w/index.m3u8
-#EXTINF:0,LASEXTA
-http://51.15.144.38:8080/play/a07x/index.m3u8
-#EXTINF:0,LIGAMOVISTAR
-http://51.15.144.38:8080/play/a03g/index.m3u8
-#EXTINF:0 tvg-id="Mega.es", MEGA
-http://51.15.144.38:8080/play/a07t/index.m3u8
-#EXTINF:0,MOVISTAR0
-http://51.15.144.38:8080/play/a02d/index.m3u8
-#EXTINF:0,NEOX
-http://51.15.144.38:8080/play/a050/index.m3u8
-#EXTINF:0,NOVA
-http://51.15.144.38:8080/play/a05h/index.m3u8
-#EXTINF:0,TOROS
-http://51.15.144.38:8080/play/a01m/index.m3u8
 
+#EXTINF:-1,LA 1
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9796.m3u8
+#EXTINF:-1,LA 1 FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9795.m3u8
+#EXTINF:-1,LA 2
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9794.m3u8
+#EXTINF:-1,La 2 FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9793.m3u8
+#EXTINF:-1,ANTENA 3
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9792.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9791.m3u8
+#EXTINF:-1,LA CUATRO
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9790.m3u8
+#EXTINF:-1,LA CUATRO FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9789.m3u8
+#EXTINF:-1,TELECINCO
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9788.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9787.m3u8
+#EXTINF:-1,LA ***TA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9786.m3u8
+#EXTINF:-1,LA ***TA  FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9785.m3u8
+#EXTINF:-1,ES | LA OTRA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9602.m3u8
+#EXTINF:-1,MEGA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9684.m3u8
+#EXTINF:-1,MEZZO LIVE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9683.m3u8
+#EXTINF:-1,MEZZO LIVE FULL HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9682.m3u8
+#EXTINF:-1,MOVISTAR  0#
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9783.m3u8
+#EXTINF:-1,MOVISTAR  ACCION
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9782.m3u8
+#EXTINF:-1,MOVISTAR  DISNEY
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9781.m3u8
+#EXTINF:-1,MOVISTAR 0# FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9780.m3u8
+#EXTINF:-1,MOVISTAR 0# HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9779.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9770.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9769.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9768.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS PARA MOVILE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9767.m3u8
+#EXTINF:-1,Movistar CineDoc&Roll
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9798.m3u8
+#EXTINF:-1,MOVISTAR ACCION FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9778.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD https://www.iptvbin.com
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9777.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9776.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9775.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9774.m3u8
+#EXTINF:-1,MOVISTAR DCINE  Ñ
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9773.m3u8
+#EXTINF:-1,MOVISTAR DCINE FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9772.m3u8
+#EXTINF:-1,MOVISTAR SERIES
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9766.m3u8
+#EXTINF:-1,MOVISTAR SERIES FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9765.m3u8
+#EXTINF:-1,MOVISTAR SERIES XTRA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9764.m3u8
+#EXTINF:-1,MOVISTAR SERIES XTRA FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9763.m3u8
+#EXTINF:-1,MOVISTAR XTRA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9762.m3u8
+#EXTINF:-1,MOVISTAR XTRA FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9761.m3u8
+#EXTINF:-1,MTV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9760.m3u8
+#EXTINF:-1,NAT GEO
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9759.m3u8
+#EXTINF:-1,| NAT GEO  WILD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9758.m3u8
+#EXTINF:-1,NAT GEO FULLHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9757.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9756.m3u8
+#EXTINF:-1,NEOX
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9755.m3u8
+#EXTINF:-1,NICK JR
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9754.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9753.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9752.m3u8
+#EXTINF:-1,ODISEA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9751.m3u8
+#EXTINF:-1,PANDA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9750.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9749.m3u8
+#EXTINF:-1,SOL Music
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9748.m3u8
+#EXTINF:-1,SOMOS
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9747.m3u8
+#EXTINF:-1,SUNDANCE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9746.m3u8
+#EXTINF:-1,SUNDANCE FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9745.m3u8
+#EXTINF:-1,SYFY
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9744.m3u8
+#EXTINF:-1,SYFY FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9743.m3u8
+#EXTINF:-1,TCM
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9742.m3u8
+#EXTINF:-1,TCM FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9741.m3u8
+#EXTINF:-1,TEN
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9740.m3u8
+#EXTINF:-1,TNT
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9739.m3u8
+#EXTINF:-1,TNT FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9738.m3u8
+#EXTINF:-1,TV 13
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9737.m3u8
+#EXTINF:-1,Viajar
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9736.m3u8
+#EXTINF:-1,VIAJAR FULLHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9735.m3u8
+#EXTINF:-1,XTRM
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9734.m3u8
+#EXTINF:-1,BLAZE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9715.m3u8
+#EXTINF:-1,ES | ETB 1
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9604.m3u8
+#EXTINF:-1,ES | TELEMADRID FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9600.m3u8
+#EXTINF:-1,BOING
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9731.m3u8
+#EXTINF:-1,HOLLYWOOD FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9732.m3u8
+#EXTINF:-1,NOVA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9730.m3u8
+#EXTINF:-1,ES | 13 TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9608.m3u8
+#EXTINF:-1,24 HORAS
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9729.m3u8
+#EXTINF:-1,ES | 7RM FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9607.m3u8
+#EXTINF:-1,8Tv
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9728.m3u8
+#EXTINF:-1,A3SERIES
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9727.m3u8
+#EXTINF:-1,AMC
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9726.m3u8
+#EXTINF:-1,AMC FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9725.m3u8
+#EXTINF:-1,AXN
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9722.m3u8
+#EXTINF:-1,AXN  WHITE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9721.m3u8
+#EXTINF:-1,AXN  WHITE FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9720.m3u8
+#EXTINF:-1,AXN FULL HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9719.m3u8
+#EXTINF:-1,BABY  TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9718.m3u8
+#EXTINF:-1,BE MAD FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9716.m3u8
+#EXTINF:-1,CALLE 13 FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9713.m3u8
+#EXTINF:-1,ES | CANAL ORBE21
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9599.m3u8
+#EXTINF:-1,ES | CANAL SUR FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9606.m3u8
+#EXTINF:-1,CI
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9710.m3u8
+#EXTINF:-1,CLAN
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9709.m3u8
+#EXTINF:-1,CLAN HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9708.m3u8
+#EXTINF:-1,ES | CLASSICA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9637.m3u8
+#EXTINF:-1,ES | CMM HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9605.m3u8
+#EXTINF:-1,COCINA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9707.m3u8
+#EXTINF:-1,COCINA FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9706.m3u8
+#EXTINF:-1,COMEDY  CENTRAL
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9705.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9704.m3u8
+#EXTINF:-1,COSMOPOLITAN  FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9703.m3u8
+#EXTINF:-1,COSMOS
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9702.m3u8
+#EXTINF:-1,DARK
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9701.m3u8
+#EXTINF:-1,DECASA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9700.m3u8
+#EXTINF:-1,DISNEY  JUNIOR
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9698.m3u8
+#EXTINF:-1,DISNEY  XD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9697.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9696.m3u8
+#EXTINF:-1,Canal de descubrimiento
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/12692.m3u8
+#EXTINF:-1,DIVINITY
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9694.m3u8
+#EXTINF:-1,DKISS
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9693.m3u8
+#EXTINF:-1,DMAX
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9692.m3u8
+#EXTINF:-1,ENERGY
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9691.m3u8
+#EXTINF:-1,ES | EXTREMADURA TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9603.m3u8
+#EXTINF:-1,Tv3
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9804.m3u8
+#EXTINF:-1,FDF
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9690.m3u8
+#EXTINF:-1,FOX
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9689.m3u8
+#EXTINF:-1,FOX FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9688.m3u8
+#EXTINF:-1,FOX LIFE
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9687.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9686.m3u8
+#EXTINF:-1,ES | HISTORIA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9630.m3u8
+#EXTINF:-1,ES | HISTORIA FHD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9629.m3u8
+#EXTINF:-1,HIT TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9685.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9733.m3u8
+#EXTINF:-1,ES | Iberalia
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9628.m3u8
+#EXTINF:-1,ES | INTERECONOMIA
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9601.m3u8
+#EXTINF:-1,ANDALUCIA TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9724.m3u8
+#EXTINF:-1,ARAGON TV
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/9723.m3u8
+#EXTINF:-1,Tv3 Cataluna
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10848.m3u8
+#EXTINF:-1,Etb2
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10849.m3u8
+#EXTINF:-1,Rtpa Asturias
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10850.m3u8
+#EXTINF:-1,Etbsat
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10851.m3u8
+#EXTINF:-1,Tv Galicia europa
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10852.m3u8
+#EXTINF:-1,Canal Extremadura
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10853.m3u8
+#EXTINF:-1,3/24 Cataluna
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10854.m3u8
+#EXTINF:-1,Tv Canaria
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10855.m3u8
+#EXTINF:-1,Tele Valencia
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10856.m3u8
+#EXTINF:-1,Tele Levante
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10857.m3u8
+#EXTINF:-1,Ib3
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10858.m3u8
+#EXTINF:-1,Sevilla FC
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10859.m3u8
+#EXTINF:-1,A Punt
+http://iptvisiontop.com:25461/live/GSeHeJ87eY/Sql8oLEQV9/10860.m3u8
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="TDT",LA 1
-http://iptvtool.es:9977/live/jolines/iptv/37102.ts
-
-#EXTINF:-1 tvg-id="LA 2" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="TDT",LA 2
-http://iptvtool.es:9977/live/jolines/iptv/37099.ts
-
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="TDT",Antena 3
-http://iptvtool.es:9977/live/jolines/iptv/37096.ts
-
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg" group-title="TDT",Cuatro
-http://iptvtool.es:9977/live/jolines/iptv/37093.ts
-
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png" group-title="TDT",Telecinco
-http://iptvtool.es:9977/live/jolines/iptv/37090.ts
-
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="TDT",La Sexta
-http://iptvtool.es:9977/live/jolines/iptv/37087.ts
-
-#EXTINF:-1 tvg-id="Boing" tvg-logo="http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png" group-title="TDT",Boing
-http://iptvtool.es:9977/live/jolines/iptv/37016.ts
-
-#EXTINF:-1 tvg-id="Clan TVE" tvg-logo="https://vignette.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" group-title="TDT",Clan TVE
-http://iptvtool.es:9977/live/jolines/iptv/37008.ts
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/e/e3/DisneyChannel_logo.png/revision/latest?cb=20140527134657&path-prefix=es" group-title="TDT",Disney Channel
-http://iptvtool.es:9977/live/jolines/iptv/37011.ts
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://vignette.wikia.nocookie.net/maditsmadfunny/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20120809221621" group-title="TDT",Disney Junior
-http://iptvtool.es:9977/live/jolines/iptv/37013.ts
-
-#EXTINF:-1 tvg-id="Diney XD" tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/c/c7/Logo_Disney_XD.png/revision/latest?cb=20141225224634" group-title="TDT",Diney XD
-http://iptvtool.es:9977/live/jolines/iptv/37014.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://vignette.wikia.nocookie.net/nickfanon/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20150926035852" group-title="TDT",Nickelodeon
-http://iptvtool.es:9977/live/jolines/iptv/37005.ts
-
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="TDT",Baby TV
-http://iptvtool.es:9977/live/jolines/iptv/37007.ts
-
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="TDT",Mega
-http://iptvtool.es:9977/live/jolines/iptv/37050.ts
-
-#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD
-http://iptvtool.es:9977/live/jolines/iptv/36985.ts
-
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="http://image1.hoerzu.de/files/station_logos/507.png" group-title="TDT",DMAX
-http://iptvtool.es:9977/live/jolines/iptv/36984.ts
-
-#EXTINF:-1 tvg-id="TEN" tvg-logo="https://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/c0/1130176.png" group-title="TDT",TEN
-http://iptvtool.es:9977/live/jolines/iptv/36982.ts
-
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="http://media.tvalacarta.info/canales/256x256/rtva.png" group-title="TDT",Canal Sur Andalucía
-http://iptvtool.es:9977/live/jolines/iptv/36979.ts
-
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://pbs.twimg.com/profile_images/744781350620663808/m2Z_7c3L_400x400.jpg" group-title="TDT",Energy
-http://iptvtool.es:9977/live/jolines/iptv/37051.ts
-
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg" group-title="TDT", Divinity
-http://iptvtool.es:9977/live/jolines/iptv/37057.ts
-
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://pbs.twimg.com/profile_images/582853429145382914/aGltbaxk_400x400.jpg" group-title="TDT",Paramount Channel
-http://iptvtool.es:9977/live/jolines/iptv/36451.ts
-
-#EXTINF:-1 tvg-id="Nova" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",Nova
-http://iptvtool.es:9977/live/jolines/iptv/37054.ts
-
-#EXTINF:-1 tvg-id="Neox" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="TDT",Neox
-http://iptvtool.es:9977/live/jolines/iptv/37055.ts
-
-#EXTINF:-1 tvg-id="#0" tvg-logo="http://www.guia-television.es/programaciontv/icon/canal+.gif" group-title="TDT",#0
-http://iptvtool.es:9977/live/jolines/iptv/37044.ts
-
-#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111647iC8FB383D8E3BFA34?v=1.0" group-title="TDT",Movistar Estrenos
-http://iptvtool.es:9977/live/jolines/iptv/37039.ts
-
-#EXTINF:-1 tvg-id="Movistar Accion" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg" group-title="TDT",Movistar Accion
-http://iptvtool.es:9977/live/jolines/iptv/37037.ts
-
-#EXTINF:-1 tvg-id="Movistar DCine" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg" group-title="TDT",Movistar DCine
-http://iptvtool.es:9977/live/jolines/iptv/37031.ts
-
-#EXTINF:-1 tvg-id="Movistar DCine" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg" group-title="TDT",Movistar DCine Español
-http://iptvtool.es:9977/live/jolines/iptv/28781.ts
-
-#EXTINF:-1 tvg-id="Movistar Comedia" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg" group-title="TDT",Movistar Comedia
-http://iptvtool.es:9977/live/jolines/iptv/37033.ts
-
-#EXTINF:-1 tvg-id="Movistar Xtra" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg" group-title="TDT",Movistar Xtra
-http://iptvtool.es:9977/live/jolines/iptv/37027.ts
-
-#EXTINF:-1 tvg-id="Movistar Series Xtra" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg" group-title="TDT",Movistar Series Xtra
-http://iptvtool.es:9977/live/jolines/iptv/37019.ts
-
-#EXTINF:-1 tvg-id="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png" group-title="TDT",Movistar Series
-http://iptvtool.es:9977/live/jolines/iptv/37025.ts
-
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg" group-title="TDT",Fox
-http://iptvtool.es:9977/live/jolines/iptv/37076.ts
-
-#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg" group-title="TDT",Fox Life
-http://iptvtool.es:9977/live/jolines/iptv/37074.ts
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg" group-title="TDT",AXN
-http://iptvtool.es:9977/live/jolines/iptv/37084.ts
-
-#EXTINF:-1 tvg-id="AXN White" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg" group-title="TDT",AXN White
-http://iptvtool.es:9977/live/jolines/iptv/37082.ts
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mgm.jpg" group-title="TDT",AMC
-http://iptvtool.es:9977/live/jolines/iptv/37079.ts
-
-#EXTINF:-1 tvg-id="Calle 13" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg" group-title="TDT",Calle 13
-http://iptvtool.es:9977/live/jolines/iptv/37068.ts
-
-#EXTINF:-1 tvg-id="TCM" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg" group-title="TDT",TCM
-http://iptvtool.es:9977/live/jolines/iptv/37058.ts
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg" group-title="TDT",TNT
-http://iptvtool.es:9977/live/jolines/iptv/37072.ts
-
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/2000px-Syfy.svg.png" group-title="TDT",SYFY
-http://iptvtool.es:9977/live/jolines/iptv/37066.ts
-
-#EXTINF:-1 tvg-id="Hollywood" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg" group-title="TDT",Hollywood
-http://iptvtool.es:9977/live/jolines/iptv/37070.ts
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg" group-title="TDT",Comedy Central
-http://iptvtool.es:9977/live/jolines/iptv/37062.ts
-
-#EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-logo="https://2.bp.blogspot.com/-5wNjjMKJiog/WFlYRkT58kI/AAAAAAAACXE/C9xyKtZsUKkCcK4nKGUaGRp5oXCiJzZRQCLcB/s400/lasestrellas.png" group-title="TDT",Canal de las Estrellas
-http://iptvtool.es:9977/live/jolines/iptv/22676.ts
-
-#EXTINF:-1 tvg-id="AandE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="TDT",AandE
-http://iptvtool.es:9977/live/jolines/iptv/28754.ts
-
-#EXTINF:-1 tvg-id="COSMO" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cosmo.jpg" group-title="TDT",COSMO
-http://iptvtool.es:9977/live/jolines/iptv/37064.ts
-
-#EXTINF:-1 tvg-id="Historia" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg" group-title="TDT",Historia
-http://iptvtool.es:9977/live/jolines/iptv/37159.ts
-
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="http://vertelevisor.com/logos/cocina.png" group-title="TDT",Canal Cocina
-http://iptvtool.es:9977/live/jolines/iptv/36990.ts
-
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-logo="http://todotele.com/wp-content/uploads/2016/12/DECASA-LOGO.png" group-title="MOVISTAR02",Canal Decasa
-http://iptvtool.es:9977/live/jolines/iptv/36988.ts
-
-#EXTINF:-1 tvg-id="Viajar" tvg-logo="http://sirefox-assets.fichub.com/assets/viajar/images/logo_viajar.png?1518103518" group-title="TDT",Viajar
-http://iptvtool.es:9977/live/jolines/iptv/36995.ts
-
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg" group-title="TDT",National Geographic
-http://iptvtool.es:9977/live/jolines/iptv/37003.ts
-
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="TDT",Nat Geo Wild
-http://iptvtool.es:9977/live/jolines/iptv/37001.ts
 
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8
