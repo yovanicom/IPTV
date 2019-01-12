@@ -727,7 +727,6 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 
 
-#EXTM3U
 #EXTINF:0,Es- #0
 #EXTVLCOPT:network-caching=1000
 http://smart-hdip.com:6204/lava1/lava1/10021
@@ -926,6 +925,137 @@ http://smart-hdip.com:6204/lava1/lava1/9953
 
 
 
+#EXTINF:0,Es- 24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10020
+#EXTINF:0,Es- A&E
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10019
+#EXTINF:0,Es- AMC
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10018
+#EXTINF:0,Es- ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10017
+#EXTINF:0,Es- AXN
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10016
+#EXTINF:0,Es- AXN WHITE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10015
+#EXTINF:0,Es- BARCA TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10014
+#EXTINF:0,Es- BEIN LALIGA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10013
+#EXTINF:0,Es- BEIN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10012
+#EXTINF:0,Es- BOING
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10011
+#EXTINF:0,Es- CALLE 13
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10010
+#EXTINF:0,Es- CANAL COCINA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10009
+#EXTINF:0,Es- CANAL DECASA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10008
+#EXTINF:0,Es- CANAL ODISEA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10007
+#EXTINF:0,Es- CAZA Y PESCA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10006
+#EXTINF:0,Es- CLAN TVE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10005
+#EXTINF:0,Es- COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10004
+#EXTINF:0,Es- COSMO
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10003
+#EXTINF:0,Es- CUATRO
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10001
+#EXTINF:0,Es- DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/10000
+#EXTINF:0,Es- DISNEY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9999
+#EXTINF:0,Es- DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9998
+#EXTINF:0,Es- DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9997
+#EXTINF:0,Es- DIVINITY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9996
+#EXTINF:0,Es- ENERGY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9995
+#EXTINF:0,Es- EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9994
+#EXTINF:0,Es- EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9993
+#EXTINF:0,Es- FOX
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9992
+#EXTINF:0,Es- FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9991
+#EXTINF:0,Es- GOL TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9990
+#EXTINF:0,Es- HISTORIA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9989
+#EXTINF:0,Es- HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9988
+#EXTINF:0,Es- LA 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9986
+#EXTINF:0,Es- LA 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9985
+#EXTINF:0,Es- LA SEXTA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9984
+#EXTINF:0,Es- LALIGA TV BAR
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9983
+#EXTINF:0,Es- M.ACCION
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9982
+#EXTINF:0,Es- M.CINE ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9981
+#EXTINF:0,Es- M.COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9980
+#EXTINF:0,Es- M.DCINE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9979
+#EXTINF:0,Es- M.DEP 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9978
+#EXTINF:0,Es- M.DEP 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9977
+#EXTINF:0,Es- M.ESTRENOS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/ahannan/ahannan/9976
+#EXTINF:0,Es- M.FORMULA 1
+#EXTVLCOPT:network-caching=1000
 http://m-iptv.net:6204/ahannan/ahannan/9975
 #EXTINF:0,Es- M.FUTBOL
 #EXTVLCOPT:network-caching=1000
@@ -987,6 +1117,7 @@ http://m-iptv.net:6204/ahannan/ahannan/9954
 #EXTINF:0,Es- TOROS TV
 #EXTVLCOPT:network-caching=1000
 http://m-iptv.net:6204/ahannan/ahannan/9953
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="--EL SALVADOR--", [COLOR blue]--EL SALVADOR--[/COLOR]
