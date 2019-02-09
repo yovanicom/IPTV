@@ -593,6 +593,9 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 http://nitro.ltd:25461/live/ruya/ruya/3323.m3u8
 #EXTINF:0 tvg-id="A3seriesHD.es", ATRE Series
 #EXTVLCOPT:network-caching=1000
+https://livestartover.atresmedia.com/a3series/master.m3u8
+#EXTINF:0 tvg-id="A3seriesHD.es", ATRE Series
+#EXTVLCOPT:network-caching=1000
 https://pull2a-i.akamaized.net/a3series/master.m3u8
 #EXTINF:0 tvg-id="Antena3.sp", ANTENA 3
 #EXTVLCOPT:network-caching=1000
@@ -607,10 +610,10 @@ https://pull2a-i.akamaized.net/mega/master.m3u8
 #EXTVLCOPT:network-caching=1000
 http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
 #EXTINF:0 tvg-id="Nova.sp", NOVA
+https://livestartover.atresmedia.com/nova/master.m3u8
+#EXTINF:0 tvg-id="Nova.sp", NOVA
 #EXTVLCOPT:network-caching=1000
 https://pull2c-i.akamaized.net/nova/master.m3u8
-#EXTINF:0 tvg-id="Nova.sp", NOVA
-http://nitro.ltd:25461/live/ruya/ruya/3310.m3u8
 #EXTINF:0 tvg-id="Energy.es",ENERGY
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
@@ -630,6 +633,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0 tvg-id="",Peque Radio
 #EXTVLCOPT:network-caching=1000
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:0, La Sexta
+#EXTVLCOPT:network-caching=1000
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://pull2c-i.akamaized.net/lasexta/master.m3u8
