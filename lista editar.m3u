@@ -605,7 +605,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 https://pull2b-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
-https://pull2a-i.akamaized.net/mega/master.m3u8
+https://livestartover.atresmedia.com/mega/master.m3u8
 #EXTINF:0 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
