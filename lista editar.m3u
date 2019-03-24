@@ -17,11 +17,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:0,TRAVEL Bulgaria
 #EXTVLCOPT:network-caching=1000
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:0,Silence TV
-#EXTVLCOPT:network-caching=1000
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-http://bit.ly/2wxlPQD
 #EXTINF:0 tvg-id="FashionTV.eu",Fashion Flix
 #EXTVLCOPT:network-caching=1000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -31,12 +26,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Canal Principal
 #EXTVLCOPT:network-caching=1000
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:0,Disney xd
-#EXTVLCOPT:network-caching=1000
-http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
-#EXTINF:0,Locomotion
-#EXTVLCOPT:network-caching=1000
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="CartoonNetworkHD.us",Cartoon Network
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
@@ -56,9 +45,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--PREMIUM TEMPORAL--", [COLOR red]--PREMIUN TEMPORAL--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8eef89e563f20a4fc0a686.m3u8
 
-#EXTINF:0,FOX
-#EXTVLCOPT:audio-track="en" network-caching=1000
-http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
 #EXTINF:0 tvg-id="FoxPremiumComedy.ar",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0 tvg-id="FoxPremiumComedy.ar",Fox Comedy
