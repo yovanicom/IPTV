@@ -532,6 +532,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/mast
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Cosmo.es.png" group-title="Spanish",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" ,Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 #EXTINF:0,TRECE
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:0,TRECE
@@ -545,16 +547,16 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 #EXTINF:0,Divinity
 #EXTVLCOPT:network-caching=1000
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:0,Divinity
-#EXTVLCOPT:network-caching=1000
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:0,Divinity HD
+#EXTVLCOPT:network-caching=1000
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:0,FDF
 #EXTVLCOPT:network-caching=1000
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
-#EXTINF:0,FDF
+#EXTINF:0,FDF HD
 #EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/ruya/ruya/3323.m3u8
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0 tvg-id="A3seriesHD.es", ATRE Series
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/a3series/master.m3u8
@@ -564,9 +566,9 @@ https://pull2a-i.akamaized.net/a3series/master.m3u8
 #EXTINF:0 tvg-id="Antena3.sp", ANTENA 3
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:0 tvg-id="Antena3.sp" , ANTENA 3
+#EXTINF:0 tvg-id="Antena3.sp" , ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
-https://pull2b-i.akamaized.net/antena3/master.m3u8
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/mega/master.m3u8
@@ -580,25 +582,29 @@ https://livestartover.atresmedia.com/nova/master.m3u8
 https://pull2c-i.akamaized.net/nova/master.m3u8
 #EXTINF:0 tvg-id="Energy.es",ENERGY
 #EXTVLCOPT:network-caching=1000
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
+#EXTINF:0 tvg-id="Energy.es",Energy HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:0 tvg-id="BeMadTV.es",BE MAD
 #EXTVLCOPT:network-caching=100
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:0 tvg-id="BeMadTV.es",BE MAD HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0,mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:0, NEOX
 #EXTVLCOPT:network-caching=1000
 https://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 http://neox-pull2b-a3player.secure.footprint.net/neox/master.m3u8
 #EXTINF:0 tvg-id="Boing.sp",BOING
 #EXTVLCOPT:network-caching=100
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:0 tvg-id="Boing.sp",BOING ES
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
+#EXTINF:0 tvg-id="Boing.sp",BOING HD
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0 tvg-id="",Peque Radio
 #EXTVLCOPT:network-caching=1000
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" ,Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/lasexta/master.m3u8
@@ -617,9 +623,16 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:0, Travel Tv
 #EXTVLCOPT:network-caching=1000
 http://194.179.53.124:8080/hls/traveltv/.m3u8
-#EXTINF:0, 101 Tv
-#EXTVLCOPT:network-caching=1000
-https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
+#EXTINF:0,Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:0,Canal Sur Andalucía HD
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
+#EXTINF:0,Canal Andalucia Turismo
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF:0,Canal Andalucia Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF:0,Canal Andalucia Cocina HD
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:0, MediaTV
 #EXTVLCOPT:network-caching=1000
 http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
