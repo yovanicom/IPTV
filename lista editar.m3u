@@ -29,7 +29,13 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 #EXTINF:0 tvg-id="Telemundo internacional" ,Telemundo
 #EXTVLCOPT:network-caching=1000
-https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
+http://usuarios.club/usuarios/src5/Telemundo/iptv/club.m3u8
+#EXTINF:0,Univision TDN
+http://usuarios.club/usuarios/src5/Univision/iptv/club.m3u8
+#EXTINF:0,Univision Tlnovelas
+http://usuarios.club/usuarios/src5/UnivisionTlnovelas/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal
+http://usuarios.club/usuarios/src1/StudioUniversal/iptv/club.m3u8
 #EXTINF:0, TDT
 #EXTVLCOPT:network-caching=1000
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
@@ -75,16 +81,24 @@ http://80.80.160.168/live/7/live.m3u8
 http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:0,HBO
 #EXTVLCOPT:audio-track="2" network-caching=1000
-http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+http://usuarios.club/usuarios/src5/HBO/iptv/club.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track="unknown" network-caching=1000
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u
+http://usuarios.club/usuarios/src5/HBO2/iptv/club.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
 #EXTVLCOPT:audio-track=1,2 network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LNH/b051be378d.png" group-title="Peliculas",HBO Family
+http://usuarios.club/usuarios/src5/HBOFamily/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Mur/9f910f41f2.png" group-title="Peliculas",HBO Plus
+http://usuarios.club/usuarios/src5/HBOPlus/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png" group-title="Peliculas",Max Prime
+http://usuarios.club/usuarios/src5/MaxPrime/iptv/club.m3u8
 #EXTINF:0 tvg-id="MaxPrimeHD.ar",MAX Prime HD
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="Peliculas",Max Up
+http://usuarios.club/usuarios/src5/MaxUp/iptv/club.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk",ZEE World
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226542/index.m3u8
@@ -93,6 +107,17 @@ http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1,B4U MOVIE
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="--24/7--", [COLOR Red]--24/7--[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QgW/470f001647.png" group-title="Entretenimiento",Hey Arnold 24/7
+http://usuarios.club/usuarios/src3/HeyArnold/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qGkkr/73e0bc98cc.png" group-title="Entretenimiento",Dragon Ball 24/7
+http://usuarios.club/usuarios/src3/DragonBall/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Entretenimiento",Los Simpson 24/7
+http://usuarios.club/usuarios/src5/LosSimpson/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Entretenimiento",Super Campeones 24/7
+http://usuarios.club/usuarios/src3/SuperCampeones/iptv/club.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="--DEPORTE--", [COLOR Red]--DEPORTE--[/COLOR]
@@ -133,13 +158,21 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTVLCOPT:network-caching=1000
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,bein sport hd
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
+http://usuarios.club/usuarios/src5/BeinSports/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXBk/e416453d72.png" group-title="Deportes",Gol TV
+http://usuarios.club/usuarios/src5/GolTV/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXCd/6ded5f3734.png" group-title="Deportes",Gol TV HD
+http://usuarios.club/usuarios/src5/GolTVHD/iptv/club.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8
 
-#EXTINF:0 tvg-id="Azteca13.mx", AZTECA 13
+#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png" group-title="Mexico",Canal 5
+http://usuarios.club/usuarios/src1/Canal5/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas
+http://usuarios.club/usuarios/src5/CanaldelasEstrellas/iptv/club.m3u8
+EXTINF:0 tvg-id="Azteca13.mx", AZTECA 13
 #EXTVLCOPT:network-caching=1000
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,Azteca Plus
