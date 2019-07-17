@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,--YTV SERVICE--
-
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
-
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
 #EXTINF:0, CACHI PUM
 http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
@@ -44,7 +44,7 @@ http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="--PREMIUM TEMPORAL--", [COLOR red]--PREMIUN TEMPORAL--[/COLOR]
-
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
 #EXTINF:0 tvg-id="FoxPremiumComedy.ar",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
@@ -108,16 +108,240 @@ http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--24/7--", [COLOR Red]--24/7--[/COLOR]
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://puu.sh/y0QgW/470f001647.png" group-title="Entretenimiento",Hey Arnold 24/7
-http://usuarios.club/usuarios/src3/HeyArnold/iptv/club.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qGkkr/73e0bc98cc.png" group-title="Entretenimiento",Dragon Ball 24/7
+#EXTINF:0,Cantinflas 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/Cantinflas/iptv/club.m3u8
+#EXTINF:0,Caballeros del Zodiaco 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/CaballerosDelZodiaco/iptv/club.m3u8
+#EXTINF:0,Chapulin Colorado 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/ChapulinColorado/iptv/club.m3u8
+#EXTINF:0,Chespirito 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/Chespirito/iptv/club.m3u8
+#EXTINF:0,Coraje el Perro Cobarde 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/CorajeCobarde/iptv/club.m3u8
+#EXTINF:0,Doraemon 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/Doraemon/iptv/club.m3u8
+#EXTINF:0,Dragon Ball 24/7
+#EXTVLCOPT:network-caching=1000
 http://usuarios.club/usuarios/src3/DragonBall/iptv/club.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Entretenimiento",Los Simpson 24/7
+#EXTINF:0,Dragon Ball GT 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/DragonBallGT/iptv/club.m3u8
+#EXTINF:0,El Pajaro Loco 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/ElPajaroLoco/iptv/club.m3u8
+#EXTINF:0,El Principel del Rap 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/ElPrincipeDelRap/iptv/club.m3u8
+#EXTINF:0,Game of Thrones 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/GameOfThrones/iptv/club.m3u8
+#EXTINF:0,Hey Arnold 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/HeyArnold/iptv/club.m3u8
+#EXTINF:0,Looney Tunes 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/LooneyTunes/iptv/club.m3u8
+#EXTINF:0,Los Simpson 24/7
+#EXTVLCOPT:network-caching=1000
 http://usuarios.club/usuarios/src5/LosSimpson/iptv/club.m3u8
+#EXTINF:0,Mr. Bean 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/MrBean/iptv/club.m3u8
+#EXTINF:0,Naruto 24/7
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src3/Naruto/iptv/club.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Entretenimiento",Super Campeones 24/7
 http://usuarios.club/usuarios/src3/SuperCampeones/iptv/club.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="-- CANAL PREMIUM TEMPORAL--", [COLOR red]--PREMIUN TEMPORAL--[/COLOR]
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
+
+#EXTINF:0,Canal 2 Televicentro
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src4/Canal2Televicentro/iptv/club.m3u8
+#EXTINF:0,Canal 5
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/Canal5/iptv/club.m3u8
+#EXTINF:0,Canal de las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/CanaldelasEstrellas/iptv/club.m3u8
+#EXTINF:0,Canal+ Accion
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/MoviAccion/iptv/club.m3u8
+#EXTINF:0,Canal+ Toros
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/Toros/iptv/club.m3u8
+#EXTINF:0,CDF Premium
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/CDFPremium/iptv/club.m3u8
+#EXTINF:0,CDO
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/CDO/iptv/club.m3u8
+#EXTINF:0,CDO Premium
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/CDOPremium/iptv/club.m3u8
+#EXTINF:0,CNN en Español
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/CNNenEspanol/iptv/club.m3u8
+#EXTINF:0,De Película
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DePelicula/iptv/club.m3u8
+#EXTINF:0,DirectTV Sports
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/DirectTVSports/iptv/club.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DiscoveryChannel/iptv/club.m3u8
+#EXTINF:0,Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DiscoveryHH/iptv/club.m3u8
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DiscoveryKids/iptv/club.m3u8
+#EXTINF:0,Discovery SCI
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DiscoverySCI/iptv/club.m3u8
+#EXTINF:0,Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DiscoveryTheaterHD/iptv/club.m3u8
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DisneyJunior/iptv/club.m3u8
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/DisneyXD/iptv/club.m3u8
+#EXTINF:0,El 13 Argentina
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/El13Argentina/iptv/club.m3u8
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ElGourmet/iptv/club.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ESPN/iptv/club.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ESPN2/iptv/club.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ESPN2MX/iptv/club.m3u8
+#EXTINF:0,ESPN MX
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ESPNMX/iptv/club.m3u8
+#EXTINF:0,Fox
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/Fox/iptv/club.m3u8
+#EXTINF:0,Fox Action
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FoxAction/iptv/club.m3u8
+#EXTINF:0,Fox Family
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/FoxFamily/iptv/club.m3u8
+#EXTINF:0,Fox Life
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FoxLife/iptv/club.m3u8
+#EXTINF:0,Fox Movies
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FoxMovies/iptv/club.m3u8
+#EXTINF:0,Fox Movies (Opcion 2)
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club.m3u8
+#EXTINF:0,Fox Sports
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FoxSports/iptv/club.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FoxSports2/iptv/club.m3u8
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8
+#EXTINF:0,Fox Sports Sur
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/FoxSportsSur/iptv/club.m3u8
+#EXTINF:0,Fox Sports Sur 2
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/FoxSportsSur2/iptv/club.m3u8
+#EXTINF:0,Fox Sports Sur 3
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/FoxSportsSur3/iptv/club.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/FX/iptv/club.m3u8
+#EXTINF:0,Gala TV
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/GalaTV/iptv/club.m3u8
+#EXTINF:0,Glitz
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/Glitz/iptv/club.m3u8
+#EXTINF:0,Gol TV
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/GolTV/iptv/club.m3u8
+#EXTINF:0,Gol TV HD
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/GolTVHD/iptv/club.m3u8
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/GoldenHD/iptv/club.m3u8
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/GoldenEdge/iptv/club.m3u8
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/H2/iptv/club.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/HBO/iptv/club.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/HBO2/iptv/club.m3u8
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/HBOFamily/iptv/club.m3u8
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/HBOPlus/iptv/club.m3u8
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/HistoryChannel/iptv/club.m3u8
+#EXTINF:0,Hit TV
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src4/HitTV/iptv/club.m3u8
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/HTV/iptv/club.m3u8
+#EXTINF:0,I.Sat
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/ISat/iptv/club.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/InvestigationDiscovery/iptv/club.m3u8
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src1/Lifetime/iptv/club.m3u8
+#EXTINF:0,m2o TV
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src4/m2oTV/iptv/club.m3u8
+#EXTINF:0,Max Prime
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/MaxPrime/iptv/club.m3u8
+#EXTINF:0,Max Up
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/MaxUp/iptv/club.m3u8
+#EXTINF:0,Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/MoviDeportes/iptv/club.m3u8
+#EXTINF:0,Movistar Xtra
+#EXTVLCOPT:network-caching=1000
+http://usuarios.club/usuarios/src5/MoviXtra/iptv/club.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="--DEPORTE--", [COLOR Red]--DEPORTE--[/COLOR]
