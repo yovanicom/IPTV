@@ -24,16 +24,19 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="CartoonNetworkHD.us",Cartoon Network
 #EXTVLCOPT:audio-track="spa" network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 62
+#EXTINF:0 tvg-id="TelemundoEast.us" ,Telemundo 51
 #EXTVLCOPT:network-caching=1000
-http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+http://cdn.miip.tv:80/887766/887766/12312
 #EXTINF:0 tvg-id="Telemundo Puerto Rico" ,Telemundo Puerto Rico
 #EXTVLCOPT:network-caching=1000
-https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8\
+#EXTINF:0 tvg-id="Univision" ,Univision
+http://cdn.miip.tv:80/887766/887766/2335
 #EXTINF:0,Univision TDN
-http://usuarios.club/usuarios/src5/Univision/iptv/club.m3u8
-#EXTINF:0,Univision Tlnovelas
-http://usuarios.club/usuarios/src5/UnivisionTlnovelas/iptv/club.m3u8
+http://cdn.miip.tv:80/887766/887766/2334
+#EXTINF:0,Univision
+http://cdn.miip.tv:80/887766/887766/12355
+#EXTINF:-1,GALAVISION http://lunarusa.org:8080/test4/test4/64355 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal
 http://usuarios.club/usuarios/src1/StudioUniversal/iptv/club.m3u8
 #EXTINF:0, TDT
