@@ -36,7 +36,7 @@ http://cdn.miip.tv:80/887766/887766/2335
 http://cdn.miip.tv:80/887766/887766/2334
 #EXTINF:0,Univision
 http://cdn.miip.tv:80/887766/887766/12355
-#EXTINF:-1,GALAVISION http://lunarusa.org:8080/test4/test4/64355 
+#EXTINF:-1,GALAVISION http://lunarusa.org:8080/test4/test4/64355
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal
 http://usuarios.club/usuarios/src1/StudioUniversal/iptv/club.m3u8
 #EXTINF:0, TDT
@@ -86,7 +86,7 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTVLCOPT:audio-track="2" network-caching=1000
 http://usuarios.club/usuarios/src5/HBO/iptv/club.m3u8
 #EXTINF:0 tvg-id="HBO2.mx",HBO 2
-#EXTVLCOPT:audio-track=1,2 network-caching=1000
+#EXTVLCOPT:audio-track=2 network-caching=1000
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0 tvg-id="MaxPrimeHD.ar",MAX Prime HD
 #EXTVLCOPT:network-caching=1000
@@ -111,6 +111,33 @@ https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
 
+#EXTINF:-1,Discovery Channel HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1,Travel Channel
+http://80.80.160.168/live/3/live.m3u8http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,SCI HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,CBC TV
+http://161.0.157.51/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1,FOX 7
+http://161.0.157.51/PLTV/88888888/224/3221227013/03.m3u8
+#EXTINF:-1,Canal 10
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:-1,Canal 9
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="--DEPORTE--", [COLOR Red]--DEPORTE--[/COLOR]
