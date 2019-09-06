@@ -274,10 +274,10 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0 tvg-id="FRANCE24.es",France 24 Español
 #EXTVLCOPT:network-caching=1000
-https://www.youtube.com/watch?v=_wDc1Vpsahs
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1567751144/ei/iKdxXc-_FNrNj-8Pw-axwAQ/ip/2606%3Aa000%3Ab7c8%3A900%3A50b1%3A4d02%3A7fdd%3A40bd/id/_wDc1Vpsahs.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgMIW-kxGhSjaGy-sTi2cV5fCrXi0MdYGK0BDVz0eJhQACIEgzBV6WV0qfMM53qFetBZmYrhoeH8fLjEUWViFbcHE4/file/index.m3u8
 #EXTINF:0 tvg-id="france24",France 24 English
 #EXTVLCOPT:network-caching=1000
-
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 tvg-id="France24.fr",France 24
 #EXTVLCOPT:network-caching=1000
 
