@@ -280,16 +280,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1567751144/ei/i
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 tvg-id="France24.fr",France 24
 #EXTVLCOPT:network-caching=1000
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1567752448/ei/oKxxXZi4CIuM4QThsarYBg/ip/2606%3Aa000%3Ab7c8%3A900%3A50b1%3A4d02%3A7fdd%3A40bd/id/dxekoD1b3_o.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAOE-27OoeRQk0UoFHvptyWlN-pjcJFjGpw77cnGoZ32_AiEA4gxuhhaXd-0PSBthhdr4b4jNLojMSlEkdCvcVyt8C78%3D/file/index.m3u8
 #EXTINF:0,The Weather Channel
 #EXTVLCOPT:network-caching=1000
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0,TRT World
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0,US | BLOOMBERG HD
-#EXTVLCOPT:network-caching=1000
-https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
 #EXTINF:0,Bloomberg
 #EXTVLCOPT:network-caching=1000
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
