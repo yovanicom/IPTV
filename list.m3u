@@ -454,7 +454,7 @@ https://pull2a-i.akamaized.net/a3series/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:0 tvg-id="Antena3.sp" , ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
-https://livestartover.atresmedia.com/geoantena3/master.m3u8
+https://livestartover-i.akamaized.net/antena3/master_t_2019-10-20T13P43P44Z_t__h_2b097ad09164874dba39f021a84d7e13efdc515f_h_.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/mega/master.m3u8
@@ -496,19 +496,13 @@ http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:0, La Sexta
 #EXTVLCOPT:network-caching=1000
-https://pull2c-i.akamaized.net/lasexta/master.m3u8
+https://livestartover-i.akamaized.net/lasexta/master_t_2019-10-20T15P12P30Z_t__h_a20e7ca7fb699b0578d254fce2da0a4b6d8c561a_h_.m3u8
 #EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
-hhttps://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:0, LA OTRA
-#EXTVLCOPT:network-caching=1000
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0, Travel Tv
-#EXTVLCOPT:network-caching=1000
-http://194.179.53.124:8080/hls/traveltv/.m3u8
 #EXTINF:0,Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:0,Canal Sur Andalucía HD
@@ -519,6 +513,12 @@ https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 #EXTINF:0,Canal Andalucia Cocina HD
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:0, LA OTRA
+#EXTVLCOPT:network-caching=1000
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:0, Travel Tv
+#EXTVLCOPT:network-caching=1000
+http://194.179.53.124:8080/hls/traveltv/.m3u8
 #EXTINF:0, MediaTV
 #EXTVLCOPT:network-caching=1000
 http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
