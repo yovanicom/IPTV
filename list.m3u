@@ -621,7 +621,7 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
 http://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8
 #EXTINF:0,CANAL 21 MEGAVICIÓN
 #EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8
+http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8
 #EXTINF:-1,Canal 23 TVX
 #EXTVLCOPT:network-caching=1000
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
