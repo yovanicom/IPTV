@@ -9,7 +9,7 @@ https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 #EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Telemax".ar,TELEMAX
+#EXTINF:0 tvg-id="Telemax.ar",TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:0,TRAVEL Bulgaria
@@ -21,6 +21,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:0 tvg-id="FashionTV.uk",Fashion
 #EXTVLCOPT:network-caching=1000
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="TelemundoEast.us", Telemundo
+#EXTVLCOPT:network-caching=1000
+https://peer2.ustv.to/Telemundo/myStream/chunks.m3u8?nimblesessionid=148844754&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgMTA6MjI6NDEgQU0maGFzaF92YWx1ZT1DamFQUHZ4RXRHRUFoME5mU0xOTTFnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:0 tvg-id="UnivisionEast.us", Univision
+#EXTVLCOPT:network-caching=1000
+https://peer3.ustv.to/Univision/myStream/chunks.m3u8?nimblesessionid=120399521&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgMTA6NDc6MTAgQU0maGFzaF92YWx1ZT15MkE1OTZLUUF0cmYwZE5mV1BPTjdnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0, MIAMI TV
 #EXTVLCOPT:network-caching=1000
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
@@ -60,7 +66,7 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1,SHO HD
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1,SCI HD
-http://80.80.160.168/live/9/live.m3u8
+https://peer3.ustv.to/Science/myStream/chunks.m3u8?nimblesessionid=120398957&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgMTA6NDU6MjAgQU0maGFzaF92YWx1ZT1XSnNKUTJsM2UrZlRCZzI4cUdWOG1RPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,CBS
