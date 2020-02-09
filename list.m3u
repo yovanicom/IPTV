@@ -5,7 +5,9 @@ https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--ENTRETENIMIENTO--", [COLOR red]--ENTRETENIMIENTO--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
-
+#EXTINF:0, Cachipum.tv
+#EXTVLCOPT:network-caching=1000
+http://23.236.180.26/11580409776/live/chunklist_w1063838915.m3u8
 #EXTINF:0, FM HOT
 #EXTVLCOPT:network-caching=1000
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
