@@ -25,10 +25,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="TelemundoEast.us", Telemundo
 #EXTVLCOPT:network-caching=1000
-https://peer2.ustv.to/Telemundo/myStream/chunks.m3u8?nimblesessionid=148844754&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgMTA6MjI6NDEgQU0maGFzaF92YWx1ZT1DamFQUHZ4RXRHRUFoME5mU0xOTTFnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer1.ustv.to/Telemundo/myStream/chunks.m3u8?nimblesessionid=193496995&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIwIDExOjE1OjM2IFBNJmhhc2hfdmFsdWU9VGxaUWRTb0ptajZmT0NjakZYRDVZZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:0 tvg-id="UnivisionEast.us", Univision
 #EXTVLCOPT:network-caching=1000
-https://peer3.ustv.to/Univision/myStream/chunks.m3u8?nimblesessionid=120399521&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgMTA6NDc6MTAgQU0maGFzaF92YWx1ZT15MkE1OTZLUUF0cmYwZE5mV1BPTjdnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer2.ustv.to/Univision/myStream/chunks.m3u8?nimblesessionid=150699299&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIwIDExOjE5OjAxIFBNJmhhc2hfdmFsdWU9S1loM3gvWHMvMXhoM05pWkx4SWNIZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:0, MIAMI TV
 #EXTVLCOPT:network-caching=1000
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
@@ -630,10 +630,10 @@ http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
 #EXTINF:0, Canal 19
 #EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8
+https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/index_300_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1581548821~acl=%2f*~data=hdntl~hmac=77576a09807e42a8cfc957339cf07a66db123345c530c8247a08c27ef84b0ef6
 #EXTINF:0,CANAL 21 MEGAVICIÓN
 #EXTVLCOPT:network-caching=1000
-http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8
+https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_300_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1581548965~acl=%2f*~data=hdntl~hmac=423c29a8f5ba1aca2b3edee9ff25d50feedf38d6b5a7f134091295aa19477aac
 #EXTINF:-1,Canal 23 TVX
 #EXTVLCOPT:network-caching=1000
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
