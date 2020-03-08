@@ -8,9 +8,9 @@ https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 #EXTINF:0, Cachipum.tv
 #EXTVLCOPT:network-caching=1000
 http://23.236.180.26/11580409776/live/chunklist_w1063838915.m3u8
-#EXTINF:0, FM HOT
+#EXTINF:0, Cartelera Hollywood
 #EXTVLCOPT:network-caching=1000
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:0 tvg-id="Telemax.ar",TELEMAX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
@@ -113,146 +113,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:0, SPORT 2 HD
 #EXTVLCOPT:network-caching=1000
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
-https://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8
-
-
-
-#EXTINF:0,Ultra TV Puebla | HD
-#EXTVLCOPT:network-caching=1000
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-#EXTINF:0,TELEVER
-#EXTVLCOPT:network-caching=1000
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="CanalCapital21.mx", Capital 21 CDMX
-#EXTVLCOPT:network-caching=1000
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:0, 7 SQCS Chetumal
-#EXTVLCOPT:network-caching=1000
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-#EXTINF:0, Canal 20 Zacatecas | SD
-#EXTVLCOPT:network-caching=1000
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:0,TV Campeche
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:0 tvg-id="MilenioTV.mx",Milenio TV
-#EXTVLCOPT:network-caching=1000
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0,Telemar Campeche
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:0,Canal del Congreso
-#EXTVLCOPT:network-caching=1000
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
-#EXTINF:0,Pinguino TV HD
-#EXTVLCOPT:network-caching=1000
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx",Canal Once
-#EXTVLCOPT:network-caching=1000
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:0 tvg-id="OnceTV.mx",Canal Once
-#EXTVLCOPT:network-caching=1000
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:0,Ultra TV Aguascalientes
-#EXTVLCOPT:network-caching=1000
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-#EXTINF: -1, Sipse TV Cancún
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="--ARGENTINA--", [COLOR blue]--ARGENTINA--[/COLOR]
-https://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8
-
-#EXTINF:0,13 MAX TELEFE
-http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-#EXTINF:0,Unirio TV
-https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
-#EXTINF:0,TelPin canal 2
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:0,15 TV
-#EXTVLCOPT:network-caching=1000
-http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:0, Canal 3 Pinamar
-#EXTVLCOPT:network-caching=1000
-http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
-#EXTINF:0,Power
-#EXTVLCOPT:network-caching=1000
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,Garage TV Autos
-#EXTVLCOPT:network-caching=1000
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:0, Canal 3
-#EXTVLCOPT:network-caching=1000
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:0, Canal 4 Bahia Blanca
-#EXTVLCOPT:network-caching=1000
-https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
-#EXTINF:0,Canal 4 Posadas
-#EXTVLCOPT:network-caching=1000
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-#EXTINF:0,Canal 4 San Juan
-#EXTVLCOPT:network-caching=1000
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
-#EXTINF:0,Canal 9
-#EXTVLCOPT:network-caching=1000
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:0, Canal 9 Comodoro Rivadavia | SD
-#EXTVLCOPT:network-caching=1000
-http://live.canalnueve.tv:8082/hls/canal.m3u8
-#EXTINF:0,Canal 10 Chetumal
-#EXTVLCOPT:network-caching=1000
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:0,Canal 10 Mar del Plata
-#EXTVLCOPT:network-caching=1000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-#EXTINF:0, Canal 10 Rio Negro
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:0, Canal 11 Ushuaia | HD
-#EXTVLCOPT:network-caching=1000
-https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="26TV.ar",Canal 26
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 tvg-id="26TV.ar",Canal 26
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-id="26TV.ar",Canal 26 Buenos Aires
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:0,Music Top
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Telemax.ar",Telemax
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,Aire de Santa Fe
-#EXTVLCOPT:network-caching=1000
-http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
-#EXTINF:0,Litus
-#EXTVLCOPT:network-caching=1000
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:0,Un Buen Plano
-#EXTVLCOPT:network-caching=1000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-#EXTINF:0,5TV Corrientes
-#EXTVLCOPT:network-caching=1000
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-#EXTINF:0,13 Max
-#EXTVLCOPT:network-caching=1000
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:0,El 1 Web TV La Matanza
-#EXTVLCOPT:network-caching=1000
-http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
-#EXTINF:0,Net TV
-#EXTVLCOPT:network-caching=1000
-http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0,Radio TV Neuquen
-#EXTVLCOPT:network-caching=1000
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="--NOTICIAS--", [COLOR Red]--NOTICIAS--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8e9cdfe563f20a4fc0a36f.m3u8
@@ -392,30 +252,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:0,BBC World News
 http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="--COLOMBIA--", [COLOR Red]--COLOMBIA--[/COLOR]
-https://live-stack.cdnvideo.ru/hls/5a8e9dd7e563f20a4fc0a379.m3u8
 
-#EXTINF:0,Canal  Capital
-#EXTVLCOPT:network-caching=1000
-http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
-#EXTINF:0,TELEMEDELLIN
-#EXTVLCOPT:network-caching=1000
-http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
-#EXTINF:0,Canal CNC
-#EXTVLCOPT:network-caching=1000
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:0, Cali TV
-#EXTVLCOPT:network-caching=1000
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:0,Canal 14 CALI
-#EXTVLCOPT:network-caching=1000
-http://181.143.238.252/live/livestream/index.m3u8
-#EXTINF:0,MUNDO +
-#EXTVLCOPT:network-caching=1000
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:0, Tele Islas
-#EXTVLCOPT:network-caching=1000
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--ESPAÑA--", [COLOR Yellow]--ESPAÑA--[/COLOR]
 https://live-stack.cdnvideo.ru/hls/5a8d92a8e563f20a4fc0a024.m3u8
@@ -612,6 +449,208 @@ http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="--MEXICO--", [COLOR green]--MEXICO--[/COLOR]
+https://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8
+
+
+
+#EXTINF:0,Ultra TV Puebla | HD
+#EXTVLCOPT:network-caching=1000
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0,TELEVER
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="AztecaAmerica.mx", Azteca America
+#EXTVLCOPT:network-caching=1000
+https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:0, Canal 4 Saltillo
+#EXTVLCOPT:network-caching=1000
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:0,Canal 6 Morelia
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#EXTINF:0,Canal 10 Cancun
+http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
+#EXTINF:0,Canal 15 Fresnillo
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+#EXTINF:0,Canal 66 Mexicali
+http://streamingcws10.com:1935/canal66/videocanal66/chunklist.m3u8
+#EXTINF:0,Capacita TV
+https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8?fluxustv.m3u8
+#EXTINF:0,Ingenio TV
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8?fluxustv.m3u8
+#EXTINF:0,RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0,Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0,Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:0,Telebachillerato
+https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8?fluxustv.m3u8
+#EXTINF:0,Telesecundaria
+https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8?fluxustv.m3u8
+#EXTINF:0,Xti TV Guadalajara
+http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
+#EXTINF:0, Canal 20 Zacatecas | SD
+#EXTVLCOPT:network-caching=1000
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0,TV Campeche
+#EXTVLCOPT:network-caching=1000
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx",Milenio TV
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,Telemar Campeche
+#EXTVLCOPT:network-caching=1000
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:0,Pinguino TV HD
+#EXTVLCOPT:network-caching=1000
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx",Canal Once Internacional
+#EXTVLCOPT:network-caching=1000
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0 tvg-id="OnceTV.mx",Canal Once Nacional
+#EXTVLCOPT:network-caching=1000
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:0,Ultra TV Aguascalientes
+#EXTVLCOPT:network-caching=1000
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF: -1, Sipse TV Cancún
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="--ARGENTINA--", [COLOR blue]--ARGENTINA--[/COLOR]
+https://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8
+
+#EXTINF:0,13 MAX TELEFE
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:0,Unirio TV
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
+#EXTINF:0,TelPin canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:0,15 TV
+#EXTVLCOPT:network-caching=1000
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:0, Canal 3 Pinamar
+#EXTVLCOPT:network-caching=1000
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:0,Power
+#EXTVLCOPT:network-caching=1000
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Garage TV Autos
+#EXTVLCOPT:network-caching=1000
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0, Canal 3  Pinamar
+#EXTVLCOPT:network-caching=1000
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:0, Canal 4 Bahia Blanca
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
+#EXTINF:0,Canal 4 Posadas
+#EXTVLCOPT:network-caching=1000
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:0,Canal 4 San Juan
+#EXTVLCOPT:network-caching=1000
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:0,Canal 9
+#EXTVLCOPT:network-caching=1000
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0, Canal 9 Comodoro Rivadavia | SD
+#EXTVLCOPT:network-caching=1000
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:0,Canal 10 Chetumal
+#EXTVLCOPT:network-caching=1000
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,Canal 10 Mar del Plata
+#EXTVLCOPT:network-caching=1000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:0, Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0, Canal 11 Ushuaia | HD
+#EXTVLCOPT:network-caching=1000
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar",Canal 26
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar",Canal 26
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar",Canal 26 Buenos Aires
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0,Music Top
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Telemax.ar",Telemax
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Aire de Santa Fe
+#EXTVLCOPT:network-caching=1000
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0,Litus
+#EXTVLCOPT:network-caching=1000
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0,Un Buen Plano
+#EXTVLCOPT:network-caching=1000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:0,5TV Corrientes
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:0,13 Max
+#EXTVLCOPT:network-caching=1000
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0,El 1 Web TV La Matanza
+#EXTVLCOPT:network-caching=1000
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:0,Net TV
+#EXTVLCOPT:network-caching=1000
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,Radio TV Neuquen
+#EXTVLCOPT:network-caching=1000
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="--COLOMBIA--", [COLOR Red]--COLOMBIA--[/COLOR]
+https://live-stack.cdnvideo.ru/hls/5a8e9dd7e563f20a4fc0a379.m3u8
+
+#EXTINF:0,Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+#EXTINF:0,Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:0,Cosmovision
+https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
+#EXTINF:0,Ntv Canal
+https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
+#EXTINF:0,Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+#EXTINF:0,Telecafe
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:0,Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+#EXTINF:0,Telecafe
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:0,UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+#EXTINF:0,Canal  Capital
+#EXTVLCOPT:network-caching=1000
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+#EXTINF:0,TELEMEDELLIN
+#EXTVLCOPT:network-caching=1000
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+#EXTINF:0,Canal CNC
+#EXTVLCOPT:network-caching=1000
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:0, Cali TV
+#EXTVLCOPT:network-caching=1000
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:0,Canal 14 CALI
+#EXTVLCOPT:network-caching=1000
+http://181.143.238.252/live/livestream/index.m3u8
+#EXTINF:0,MUNDO +
+#EXTVLCOPT:network-caching=1000
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0, Tele Islas
+#EXTVLCOPT:network-caching=1000
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 
 
@@ -660,8 +699,19 @@ http://127.0.0.1
 #EXTINF:0 tvg-id="Telesur.es",Telesur
 #EXTVLCOPT:network-caching=1000
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+#EXTINF: -1, Vepaco TV
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF: -1, Corazon Llanero
+http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/playlist.m3u8
+#EXTINF: -1, Promar TV
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+#EXTINF: -1, TLT
+http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 #EXTINF: -1, TvES
-http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+http://5.189.181.203:1935/tves/tves/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="--BOLIVIA--", [COLOR Red]--BOLIVIA--[/COLOR]
 http://127.0.0.1
@@ -755,8 +805,10 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 
 #EXTINF:0, Unicanal | HD
-#EXTVLCOPT:network-caching=1000
 http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0, RPC
+http://174.138.118.252/live/canal13stream_src.m3u8
+
 
 #EXTINF:0, [COLOR red]URUGUAY[/COLOR]
 #EXTVLCOPT:network-caching=1000
@@ -765,6 +817,9 @@ http://127.0.0.1
 #EXTINF:0, Canal-M | HD
 #EXTVLCOPT:network-caching=1000
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:0, VTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="--REPUBLICA DOMINICANA--", [COLOR Red]--REPUBLICA DOMINICANA--[/COLOR]
 http://127.0.0.1
@@ -782,67 +837,76 @@ http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="--ECUADOR--", [COLOR Red]--ECUADOR--[/COLOR]
 http://127.0.0.1
 
+#EXTINF:0, Ecuador TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+#EXTINF:0, Ecuador TV Int.
+http://api.new.livestream.com/accounts/27228685/events/8710503/live.m3u8
+#EXTINF:0, Canela TV
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
+#EXTINF:0, Hechos TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:0, Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:0,TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
 #EXTINF:0,UCSG
-#EXTVLCOPT:network-caching=1000
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:0, TC
-#EXTVLCOPT:network-caching=1000
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="--COSTA RICA--", [COLOR Red]--COSTA RICA--[/COLOR]
 http://127.0.0.1
 
 #EXTINF:0,Telesur
-#EXTVLCOPT:network-caching=1000
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:0,Colosal
-#EXTVLCOPT:network-caching=1000
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:0,Extrema
-#EXTVLCOPT:network-caching=1000
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,HBTV Ticavision
-#EXTVLCOPT:network-caching=1000
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0,Super 5 TV
-#EXTVLCOPT:network-caching=1000
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+#EXTINF:0,Anexion TV 36
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
-#EXTINF:0,Super 5 TV
-#EXTVLCOPT:network-caching=1000
-http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
+#EXTINF:0,Guapiles TV
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 #EXTINF:0,Telesur
-#EXTVLCOPT:network-caching=1000
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,CANAL 9 TV SUR CR
-#EXTVLCOPT:network-caching=1000
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-#EXTINF:0, CANAL TRECES HD CR
-#EXTVLCOPT:network-caching=1000
-http://bit.ly/2DXnwr4
+#EXTINF:0, TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:0, TicaVision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:0,CANAL 88 STEREO CR
-#EXTVLCOPT:network-caching=1000
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 #EXTINF:0, Extra TV 42 costa rica
-#EXTVLCOPT:network-caching=1000
 http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
 #EXTINF:0,CANAL NICOYA TV 36 CR
-#EXTVLCOPT:network-caching=1000
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="--PUERTO RICO-", [COLOR Red]--PUERTO RICO--[/COLOR]
+http://127.0.0.1
+
+#EXTINF:0,WIPR TV
+http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+#EXTINF:0,Mega TV
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="--PANAMA--", [COLOR Red]--PANAMA--[/COLOR]
 http://127.0.0.1
 
-#EXTINF:0,Eco TV
+#EXTINF:0,Panavision
 #EXTVLCOPT:network-caching=1000
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
+http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
 #EXTINF:0,Nex tv
 #EXTVLCOPT:network-caching=1000
 http://198.1.117.5:1935/live/livestream/master.m3u8
-#EXTINF:0,Nex TV
+#EXTINF:0,SerTV
 #EXTVLCOPT:network-caching=1000
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="--HONDURAS--", [COLOR Red]--HONDURAS--[/COLOR]
 http://127.0.0.1
