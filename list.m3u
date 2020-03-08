@@ -259,10 +259,10 @@ https://live-stack.cdnvideo.ru/hls/5a8d92a8e563f20a4fc0a024.m3u8
 
 #EXTINF:0 tvg-id="324.es",España 3/24
 #EXTVLCOPT:network-caching=1000
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-#EXTINF:0 tvg-id="324.es",España 3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/.m3u8?
+#EXTINF:0 tvg-id="24Horas.sp",24 Horas
 #EXTVLCOPT:network-caching=1000
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Cosmo.es.png" group-title="Spanish",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" ,Telecinco
@@ -272,9 +272,6 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:0,TRECE
 #EXTVLCOPT:network-caching=1000
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:0 tvg-id="CanalExtremadura.es",Canal Extremadura
-#EXTVLCOPT:network-caching=1000
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="CanalExtremadura.es",Canal Extremadura
 #EXTVLCOPT:network-caching=1000
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
@@ -293,6 +290,9 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0 tvg-id="DMAX.es",DMAX
 #EXTVLCOPT:network-caching=1000
 http://91.126.141.12:1935/live/discoverymax/.m3u8
+#EXTINF:0 tvg-id="Ten.es",TEN
+#EXTVLCOPT:network-caching=1000
+http://91.126.141.201:1935/live/ten/.m3u8
 #EXTINF:0 tvg-id="A3seriesInternacional.es", ATRE Series INTE
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/a3seriesinternacional/master.m3u8
