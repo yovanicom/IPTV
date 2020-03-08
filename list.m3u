@@ -25,10 +25,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="TelemundoEast.us", Telemundo
 #EXTVLCOPT:network-caching=1000
-https://peer1.ustv.to/Telemundo/myStream/chunks.m3u8?nimblesessionid=193496995&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIwIDExOjE1OjM2IFBNJmhhc2hfdmFsdWU9VGxaUWRTb0ptajZmT0NjakZYRDVZZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:0 tvg-id="UnivisionEast.us", Univision
 #EXTVLCOPT:network-caching=1000
-https://peer2.ustv.to/Univision/myStream/chunks.m3u8?nimblesessionid=150699299&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIwIDExOjE5OjAxIFBNJmhhc2hfdmFsdWU9S1loM3gvWHMvMXhoM05pWkx4SWNIZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+https://peer2.ustv.to/Univision/myStream/chunks.m3u8?nimblesessionid=171801160&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjAgOToxMjoyNCBQTSZoYXNoX3ZhbHVlPThtSzBWVzhOZjZ6M1pJMjFrNE5nU1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTA=
 #EXTINF:0, MIAMI TV
 #EXTVLCOPT:network-caching=1000
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
