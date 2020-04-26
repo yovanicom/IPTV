@@ -304,7 +304,7 @@ https://pull2a-i.akamaized.net/a3series/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:0 tvg-id="Antena3internacional.sp" , ANTENA3 Int
 #EXTVLCOPT:network-caching=1000
-https://livestartover.atresmedia.com/a3internacional/master.m3u88
+https://livestartover.atresmedia.com/a3internacional/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es", MEGA
 #EXTVLCOPT:network-caching=1000
 https://livestartover.atresmedia.com/mega/master.m3u8
@@ -315,7 +315,7 @@ http://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
 https://livestartover.atresmedia.com/nova/master.m3u8
 #EXTINF:0 tvg-id="Nova.sp", NOVA
 #EXTVLCOPT:network-caching=1000
-https://pull2c-i.akamaized.net/nova/master.m3u8
+https://a3m-nova-vod-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1587902011&nva=1587902021&hash=03d2fd8d89dedf4c9cd81446731286edcde111b3e
 #EXTINF:0 tvg-id="Energy.es",ENERGY
 #EXTVLCOPT:network-caching=1000
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
