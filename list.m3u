@@ -7,7 +7,7 @@ https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
 
 #EXTINF:0, Cachipum.tv
 #EXTVLCOPT:network-caching=1000
-http://23.236.180.26/11580409776/live/chunklist_w1063838915.m3u8
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1649498372.m3u8
 #EXTINF:0, Cartelera Hollywood
 #EXTVLCOPT:network-caching=1000
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
