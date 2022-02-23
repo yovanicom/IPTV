@@ -348,7 +348,7 @@ https://livestartover-i.akamaized.net/lasexta/master_t_2019-10-20T15P12P30Z_t__h
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:0, La 2
 #EXTVLCOPT:network-caching=1000
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:0,Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1,Informacion TV
