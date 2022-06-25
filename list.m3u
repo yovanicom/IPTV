@@ -125,19 +125,19 @@ http://live.cgtn.com/cctv-d.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 tvg-id="RTEspanol.es",RT Español
 #EXTVLCOPT:network-caching=1000
-https://rt-esp.secure.footprint.net/1102.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:0,RT News
 #EXTVLCOPT:network-caching=1000
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:0,RT America
 #EXTVLCOPT:network-caching=1000
-https://rt-usa.secure.footprint.net/1105.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0,RT UK
 #EXTVLCOPT:network-caching=1000
-https://rt-uk.secure.footprint.net/1106.m3u8
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:0,RT Documentary
 #EXTVLCOPT:network-caching=1000
-https://rt-doc.secure.footprint.net/1101.m3u8
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:0,DW English
 #EXTVLCOPT:network-caching=1000
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
